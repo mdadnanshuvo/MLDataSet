@@ -1,0 +1,1045 @@
+Region,Area,Total Rooms,Measurements(sqft),Corridors,Bathroom Attachments,Car Parking Facility,Utility Services,Price
+Dhaka North City,Gulshan 1,3,1280,1,3 (attached),Yes,Excellent,20000000
+Dhaka North City,Gulshan 1,3,1350,2,3 (attached),Yes,Excellent,25000000
+Dhaka North City,Gulshan 1,2,1100,1,2 (attached),No,Excellent,10000000
+Dhaka North City,Gulshan 1,2,1150,0,2 (attached+NonAttached),Yes,Excellent,12000000
+Dhaka North City,Gulshan 1,3,1500,2,1(NonAttached),Yes,Average,30000000
+Dhaka North City,Gulshan 1,4,1540,3,3 (attached),No,Excellent,35000000
+Dhaka North City,Gulshan 1,3,1400,2,2 (NonAttached),No,Poor,21000000
+Dhaka North City,Gulshan 1,4,1680,4,4 (attached),Yes,Excellent,45500000
+Dhaka North City,Gulshan 1,3,1280,1,3 (attached),No,Average,15000000
+Dhaka North City,Gulshan 1,3,1300,2,3 (attached),No,Average,25300000
+Dhaka North City,Gulshan 1,4,1800,1,3 (attached),Yes,Excellent,24000000
+Dhaka North City,Gulshan 1,3,1280,2,2 (attached),Yes,Excellent,30020000
+Dhaka North City,Gulshan 1,2,1350,1,2 (attached+NonAttached),Yes,Excellent,35070000
+Dhaka North City,Gulshan 1,4,1100,0,3 (attached),No,Poor,24300000
+Dhaka North City,Gulshan 2,2,1150,2,3 (attached),Yes,Excellent,45200000
+Dhaka North City,Gulshan 2,3,1500,3,2 (attached),Yes,Excellent,16000000
+Dhaka North City,Gulshan 2,4,1540,2,2 (attached+NonAttached),No,Excellent,28000000
+Dhaka North City,Gulshan 2,4,1400,1,1(NonAttached),No,Excellent,21050000
+Dhaka North City,Gulshan 2,3,1280,2,3 (attached),Yes,Average,26500000
+Dhaka North City,Gulshan 2,3,1350,1,2 (NonAttached),No,Excellent,33500000
+Dhaka North City,Gulshan 2,2,1100,0,4 (attached),No,Poor,25040000
+Dhaka North City,Gulshan 2,2,1150,1,3 (attached),Yes,Excellent,29600000
+Dhaka North City,Gulshan 2,3,1500,2,3 (attached),Yes,Average,45100000
+Dhaka North City,Gulshan 2,3,1280,1,2 (attached),No,Average,11500000
+Dhaka North City,Gulshan 2,4,1350,0,3 (attached),Yes,Excellent,21700000
+Dhaka North City,Gulshan 2,3,1100,2,3 (attached),Yes,Excellent,24600000
+Dhaka North City,Gulshan 2,4,1150,3,2 (attached),No,Excellent,50000000
+Dhaka North City,Gulshan 2,3,1500,2,2 (attached+NonAttached),Yes,Poor,35800000
+Dhaka North City,Gulshan 2,2,1540,4,3 (attached),Yes,Excellent,28000000
+Dhaka North City,Banani,2,1280,1,3 (attached),No,Excellent,25600000
+Dhaka North City,Banani,3,1350,2,3 (attached),No,Excellent,40080000
+Dhaka North City,Banani,3,1100,1,2 (attached),Yes,Excellent,15106000
+Dhaka North City,Banani,3,1280,0,2 (attached+NonAttached),No,Average,25500000
+Dhaka North City,Banani,4,1350,2,1(NonAttached),No,Excellent,35000000
+Dhaka North City,Banani,4,1100,1,3 (attached),Yes,Poor,30026000
+Dhaka North City,Banani,4,1150,2,3 (attached),Yes,Excellent,25601000
+Dhaka North City,Banani,3,1500,1,2 (attached),Yes,Average,25300000
+Dhaka North City,Banani,3,1280,0,2 (attached+NonAttached),No,Average,21500000
+Dhaka North City,Banani,3,1350,2,1(NonAttached),Yes,Excellent,24500000
+Dhaka North City,Banani,2,1280,3,3 (attached),Yes,Excellent,35860000
+Dhaka North City,Banani,2,1350,2,2 (NonAttached),No,Excellent,40010000
+Dhaka North City,Banani,3,1100,4,4 (attached),Yes,Poor,25040000
+Dhaka North City,Banani,2,1150,1,3 (attached),Yes,Poor,15090000
+Dhaka North City,Banani,2,1500,2,3 (attached),No,Excellent,27400000
+Dhaka North City,Banani,3,1540,1,2 (attached),No,Average,14000000
+Dhaka North City,Banani,3,1400,0,2 (attached+NonAttached),Yes,Average,22700000
+Dhaka North City,Banani,3,1680,2,1(NonAttached),No,Excellent,19020000
+Dhaka North City,Banani,4,1280,3,3 (attached),No,Excellent,25200000
+Dhaka North City,Banani,3,1300,2,2 (NonAttached),Yes,Excellent,18720000
+Dhaka North City,Banani,4,1800,4,4 (attached),Yes,Poor,24060000
+Dhaka North City,Banani,4,1280,1,3 (attached),Yes,Poor,10500000
+Dhaka North City,Banani,2,1350,1,3 (attached),No,Excellent,19530000
+Dhaka North City,Banani,2,1100,2,3 (attached),Yes,Average,23030000
+Dhaka North City,Banani,3,1150,1,2 (attached),Yes,Average,15600000
+Dhaka North City,Banani,3,1500,2,2 (attached+NonAttached),No,Excellent,25050000
+Dhaka North City,Banani,2,1540,1,1(NonAttached),No,Excellent,13050000
+Dhaka North City,Banani,2,1280,0,3 (attached),Yes,Excellent,25020000
+Dhaka North City,Banani,3,1350,2,2 (NonAttached),Yes,Poor,13400000
+Dhaka North City,Banani,3,1100,3,4 (attached),No,Poor,20100000
+Dhaka South City,Dhanmondhi,3,1150,2,3 (attached),Yes,Excellent,30890000
+Dhaka South City,Dhanmondhi,3,1280,4,3 (attached),Yes,Average,33200000
+Dhaka South City,Dhanmondhi,4,1350,1,3 (attached),No,Average,20059000
+Dhaka South City,Dhanmondhi,4,1100,2,3 (attached),No,Average,45003000
+Dhaka South City,Dhanmondhi,3,1280,1,2 (attached),Yes,Excellent,15800000
+Dhaka South City,Dhanmondhi,2,1350,0,2 (attached+NonAttached),Yes,Excellent,25150000
+Dhaka South City,Dhanmondhi 2,3,1100,2,1(NonAttached),No,Excellent,23070000
+Dhaka South City,Dhanmondhi 2,4,1150,3,3 (attached),Yes,Poor,17100000
+Dhaka South City,Dhanmondhi 2,3,1500,2,2 (NonAttached),Yes,Poor,26040000
+Dhaka South City,Dhanmondhi 2,2,1280,4,3 (attached),No,Excellent,25105000
+Dhaka South City,Dhanmondhi 2,3,1350,1,3 (attached),No,Average,15009000
+Dhaka South City,Dhanmondhi 2,4,1100,2,2 (attached),Yes,Average,19020000
+Dhaka South City,Dhanmondhi 2,3,1150,1,2 (attached+NonAttached),No,Average,17500000
+Dhaka South City,Dhanmondhi 2,2,1280,1,1(NonAttached),No,Excellent,21500000
+Dhaka South City,Dhanmondhi 2,3,1350,2,3 (attached),Yes,Excellent,25000000
+Dhaka South City,Dhanmondhi 2,4,1100,1,2 (NonAttached),No,Excellent,19050000
+Dhaka South City,Dhanmondhi 2,2,1150,0,4 (attached),No,Poor,22100000
+Dhaka South City,Dhanmondhi 2,3,1280,2,3 (attached),Yes,Average,25603000
+Dhaka South City,Dhanmondhi 2,4,1350,1,3 (attached),Yes,Average,35070000
+Dhaka South City,Dhanmondhi 2,3,1100,2,3 (attached),No,Average,25001000
+Dhaka South City,Dhanmondhi 3,2,1150,1,2 (attached),No,Excellent,25406000
+Dhaka South City,Dhanmondhi 3,3,1500,0,2 (attached+NonAttached),No,Excellent,25070000
+Dhaka South City,Dhanmondhi 3,4,1540,2,1(NonAttached),Yes,Excellent,11570000
+Dhaka South City,Dhanmondhi 3,2,1280,3,3 (attached),Yes,Poor,14930000
+Dhaka South City,Dhanmondhi 3,3,1350,2,2 (NonAttached),No,Poor,21600000
+Dhaka South City,Dhanmondhi 3,4,1100,4,4 (attached),No,Excellent,25080000
+Dhaka South City,Dhanmondhi 27,3,1150,1,3 (attached),Yes,Average,23500000
+Dhaka South City,Dhanmondhi 27,2,1280,2,3 (attached),No,Average,25300000
+Dhaka South City,Dhanmondhi 27,3,1350,1,3 (attached),No,Average,11300000
+Dhaka South City,Dhanmondhi 27,4,1100,0,2 (attached),Yes,Excellent,14500000
+Dhaka South City,Dhanmondhi 27,3,1150,2,2 (attached+NonAttached),Yes,Excellent,25700000
+Dhaka South City,Dhanmondhi 27,2,1500,3,1(NonAttached),No,Excellent,12000000
+Dhaka South City,Dhanmondhi 27,3,1280,2,3 (attached),No,Poor,14040000
+Dhaka South City,Dhanmondhi 27,4,1350,4,3 (attached),No,Poor,25090000
+Dhaka South City,Dhanmondhi 27,3,1100,1,2 (attached),Yes,Excellent,20090000
+Dhaka South City,Agargaon,2,1280,2,2 (attached+NonAttached),Yes,Average,25030000
+Dhaka South City,Agargaon,3,1350,1,1(NonAttached),No,Excellent,24500000
+Dhaka South City,Agargaon,2,1100,0,3 (attached),Yes,Excellent,15700000
+Dhaka South City,Agargaon,3,1150,2,2 (NonAttached),No,Excellent,20500000
+Dhaka South City,Agargaon,4,1280,1,4 (attached),No,Average,22000000
+Dhaka South City,Agargaon,3,1350,2,3 (attached),Yes,Average,19500000
+Dhaka South City,Agargaon,2,1280,1,3 (attached),Yes,Excellent,22000000
+Dhaka South City,Agargaon,3,1350,0,3 (attached),No,Excellent,28500000
+Dhaka South City,Agargaon,2,1280,2,2 (attached),No,Excellent,33700000
+Dhaka South City,Agargaon,3,1350,3,2 (attached+NonAttached),No,Poor,22400000
+Dhaka South City,Agargaon,4,1100,2,1(NonAttached),Yes,Poor,25004000
+Dhaka South City,Agargaon,2,1280,4,3 (attached),Yes,Excellent,20300000
+Dhaka South City,Agargaon,3,1350,1,2 (NonAttached),No,Average,12400000
+Dhaka South City,Agargaon,2,1100,2,4 (attached),Yes,Excellent,14400000
+Dhaka North City,Agargaon,2,1150,1,3 (attached),Yes,Average,25300000
+Dhaka North City,Bashundhara RA,2,1500,0,3 (attached),Yes,Average,20600000
+Dhaka North City,Bashundhara RA,3,1540,2,3 (attached),No,Excellent,25100000
+Dhaka North City,Bashundhara RA,2,1400,3,2 (attached),No,Excellent,22000000
+Dhaka North City,Bashundhara RA,3,1680,2,2 (attached+NonAttached),Yes,Excellent,11300000
+Dhaka North City,Bashundhara RA,2,1280,4,1(NonAttached),Yes,Poor,14000000
+Dhaka North City,Bashundhara RA,3,1300,1,3 (attached),No,Poor,24000000
+Dhaka North City,Bashundhara RA,4,1800,2,2 (NonAttached),Yes,Excellent,11500000
+Dhaka North City,Bashundhara RA,2,1280,1,4 (attached),No,Average,16000000
+Dhaka North City,Bashundhara RA,3,1350,0,3 (attached),No,Poor,27800000
+Dhaka North City,Bashundhara RA,2,1100,2,3 (attached),Yes,Average,29000000
+Dhaka North City,Bashundhara RA,3,1150,3,3 (attached),Yes,Average,20000000
+Dhaka North City,Bashundhara RA,4,1500,2,2 (attached),No,Excellent,21100000
+Dhaka North City,Bashundhara RA,3,1540,4,2 (attached+NonAttached),Yes,Excellent,11300000
+Dhaka North City,Bashundhara RA,2,1400,1,1(NonAttached),No,Excellent,25600000
+Dhaka North City,Bashundhara RA,3,1680,2,3 (attached),No,Poor,11500000
+Dhaka North City,North Budda,4,1280,1,2 (NonAttached),Yes,Poor,17000000
+Dhaka North City,North Budda,2,1300,0,4 (attached),Yes,Excellent,23400000
+Dhaka North City,North Budda,3,1800,2,3 (attached),No,Average,11005000
+Dhaka North City,North Budda,4,1280,3,3 (attached),Yes,Excellent,14500000
+Dhaka North City,North Budda,3,1350,2,3 (attached),Yes,Excellent,27000000
+Dhaka North City,North Budda,2,1100,4,2 (attached),Yes,Excellent,50000000
+Dhaka North City,West Budda,3,1150,1,2 (attached+NonAttached),No,Average,24500000
+Dhaka North City,West Budda,4,1500,2,1(NonAttached),No,Average,20800000
+Dhaka North City,West Budda,3,1540,1,3 (attached),Yes,Excellent,11900000
+Dhaka North City,West Budda,2,1400,0,2 (NonAttached),Yes,Excellent,20200000
+Dhaka North City,West Budda,3,1680,2,4 (attached),No,Excellent,25300000
+Dhaka North City,West Budda,4,1280,3,3 (attached),Yes,Poor,15800000
+Dhaka North City,West Budda,3,1300,2,3 (attached),Yes,Poor,12460000
+Dhaka North City,West Budda,2,1800,4,3 (attached),No,Excellent,37800000
+Dhaka North City,West Budda,3,1280,1,2 (attached),No,Average,35100000
+Dhaka North City,Mirpur,4,1280,2,2 (attached+NonAttached),Yes,Excellent,20700000
+Dhaka North City,Mirpur,3,1280,1,1(NonAttached),Yes,Average,45100000
+Dhaka North City,Mirpur,2,1350,0,3 (attached),No,Average,15050000
+Dhaka North City,Mirpur,3,1280,2,2 (NonAttached),Yes,Excellent,25800000
+Dhaka North City,Mirpur,4,1350,3,4 (attached),Yes,Excellent,20050000
+Dhaka North City,Mirpur,3,1280,2,3 (attached),No,Excellent,35090000
+Dhaka North City,Mirpur 2,2,1350,4,3 (attached),No,Poor,21500000
+Dhaka North City,Mirpur 2,3,1100,1,3 (attached),Yes,Poor,28500000
+Dhaka North City,Mirpur 2,4,1150,2,2 (attached),Yes,Excellent,45800000
+Dhaka North City,Mirpur 2,3,1280,1,2 (attached+NonAttached),No,Average,15050000
+Dhaka North City,Mirpur 2,2,1350,0,1(NonAttached),Yes,Excellent,25050000
+Dhaka North City,Mirpur 3,3,1100,2,3 (attached),Yes,Average,23600000
+Dhaka North City,Mirpur 3,4,1150,3,2 (NonAttached),No,Average,30001000
+Dhaka North City,Mirpur 3,3,1500,2,4 (attached),No,Excellent,25040000
+Dhaka North City,Mirpur 3,2,1540,4,3 (attached),Yes,Excellent,33200000
+Dhaka North City,Mirpur 3,3,1400,1,3 (attached),Yes,Excellent,21050000
+Dhaka North City,Mirpur 11,4,1680,2,3 (attached),No,Poor,40056000
+Dhaka North City,Mirpur 11,3,1280,1,3 (attached),Yes,Poor,15100000
+Dhaka North City,Mirpur 11,2,1300,0,2 (attached),No,Excellent,29000000
+Dhaka North City,Mirpur 11,3,1800,1,2 (attached+NonAttached),No,Excellent,22040000
+Dhaka North City,Mirpur 11,4,1280,2,1(NonAttached),Yes,Excellent,42080000
+Dhaka North City,Mirpur 12,3,1350,1,3 (attached),Yes,Excellent,33500000
+Dhaka North City,Mirpur 12,2,1100,0,2 (NonAttached),No,Excellent,39000000
+Dhaka North City,Mirpur 12,3,1150,1,4 (attached),Yes,Average,28000000
+Dhaka South City,Agargaon,4,1500,2,3 (attached),No,Average,46000000
+Dhaka South City,Agargaon,3,1540,1,3 (attached),No,Excellent,14000000
+Dhaka South City,Agargaon,2,1400,0,2 (attached),Yes,Excellent,22500000
+Dhaka South City,Agargaon,3,1680,1,2 (attached+NonAttached),Yes,Excellent,29700000
+Dhaka South City,Agargaon,4,1280,2,1(NonAttached),No,Poor,24800000
+Dhaka South City,Agargaon,2,1300,1,3 (attached),Yes,Poor,25600000
+Dhaka South City,Agargaon,3,1800,0,3 (attached),Yes,Excellent,22600000
+Dhaka South City,Mohammadpur,4,1280,1,2 (attached),No,Excellent,20670000
+Dhaka South City,Mohammadpur,3,1350,2,2 (attached+NonAttached),No,Excellent,33500000
+Dhaka South City,Mohammadpur,2,1100,1,1(NonAttached),Yes,Excellent,35100000
+Dhaka South City,Mohammadpur,3,1150,0,3 (attached),Yes,Excellent,25600000
+Dhaka South City,Mohammadpur,2,1500,2,2 (NonAttached),No,Average,45110000
+Dhaka South City,Mohammadpur,3,1540,3,4 (attached),Yes,Average,15660000
+Dhaka South City,Mohammadpur,4,1400,2,3 (attached),No,Excellent,25098000
+Dhaka South City,Mohammadpur,3,1680,4,3 (attached),No,Poor,14440000
+Dhaka South City,Mohammadpur,2,1280,1,2 (attached),Yes,Excellent,20031000
+Dhaka South City,Mohammadpur,3,1300,2,2 (attached+NonAttached),Yes,Excellent,14670000
+Dhaka South City,Mohammadpur,4,1800,1,1(NonAttached),No,Excellent,25600000
+Dhaka South City,Mohammadpur,3,1280,0,3 (attached),Yes,Excellent,18770000
+Dhaka South City,Mohammadpur,2,1350,2,2 (NonAttached),Yes,Excellent,22300000
+Dhaka South City,Mohammadpur,3,1100,3,4 (attached),Yes,Average,10980000
+Dhaka South City,Lalbagh,4,1150,2,3 (attached),No,Average,19120000
+Dhaka South City,Lalbagh,3,1500,4,3 (attached),Yes,Excellent,24500000
+Dhaka South City,Lalbagh,2,1540,1,2 (attached),Yes,Poor,15350000
+Dhaka South City,Lalbagh,3,1400,2,2 (attached+NonAttached),No,Excellent,25500000
+Dhaka South City,Lalbagh,4,1680,1,1(NonAttached),Yes,Excellent,19300000
+Dhaka South City,Lalbagh,2,1280,0,3 (attached),No,Excellent,15900000
+Dhaka South City,Lalbagh,3,1300,2,2 (NonAttached),No,Excellent,13240000
+Dhaka South City,Lalbagh,4,1800,3,4 (attached),Yes,Excellent,24500000
+Dhaka South City,Lalbagh,3,1280,2,3 (attached),Yes,Average,30560000
+Dhaka South City,Lalbagh,2,1350,4,3 (attached),No,Average,35900000
+Dhaka South City,Lalbagh,3,1100,1,3 (attached),Yes,Excellent,24560000
+Dhaka South City,Lalbagh,4,1150,2,2 (attached),Yes,Excellent,45110000
+Dhaka South City,Lalbagh,3,1500,4,2 (attached+NonAttached),Yes,Excellent,15440000
+Dhaka South City,Lalbagh,3,1540,1,1(NonAttached),Yes,Poor,25230000
+Dhaka South City,Lalbagh,3,1400,2,3 (attached),Yes,Excellent,21200000
+Dhaka North City,Gulshan 1,3,1280,1,3 (attached),Yes,Excellent,17560000
+Dhaka North City,Gulshan 1,3,1350,2,3 (attached),Yes,Excellent,23200000
+Dhaka North City,Gulshan 1,2,1100,1,2 (attached),No,Excellent,25500000
+Dhaka North City,Gulshan 1,2,1150,0,2 (attached+NonAttached),Yes,Excellent,28700000
+Dhaka North City,Gulshan 1,3,1500,2,1(NonAttached),Yes,Average,14500000
+Dhaka North City,Gulshan 1,4,1540,3,3 (attached),No,Excellent,14700000
+Dhaka North City,Gulshan 1,3,1400,2,2 (NonAttached),No,Poor,20560000
+Dhaka North City,Gulshan 1,4,1680,4,4 (attached),Yes,Excellent,29800000
+Dhaka North City,Gulshan 1,3,1280,1,3 (attached),No,Average,17800000
+Dhaka North City,Gulshan 1,3,1300,2,3 (attached),No,Average,22230000
+Dhaka North City,Gulshan 1,4,1800,1,3 (attached),Yes,Excellent,25760000
+Dhaka North City,Gulshan 1,3,1280,2,2 (attached),Yes,Excellent,30870000
+Dhaka North City,Gulshan 1,2,1350,1,2 (attached+NonAttached),Yes,Excellent,29000000
+Dhaka North City,Gulshan 1,4,1100,0,3 (attached),No,Poor,27800000
+Dhaka North City,Gulshan 2,2,1150,2,3 (attached),Yes,Excellent,21230000
+Dhaka North City,Gulshan 2,3,1500,3,2 (attached),Yes,Excellent,11670000
+Dhaka North City,Gulshan 2,4,1540,2,2 (attached+NonAttached),No,Excellent,24300000
+Dhaka North City,Gulshan 2,4,1400,1,1(NonAttached),No,Excellent,24500000
+Dhaka North City,Gulshan 2,3,1280,2,3 (attached),Yes,Average,30010000
+Dhaka North City,Gulshan 2,3,1350,1,2 (NonAttached),No,Excellent,29300000
+Dhaka North City,Gulshan 2,2,1100,0,4 (attached),No,Poor,29870000
+Dhaka North City,Gulshan 2,2,1150,1,3 (attached),Yes,Excellent,11987000
+Dhaka North City,Gulshan 2,3,1500,2,3 (attached),Yes,Average,13200000
+Dhaka North City,Gulshan 2,3,1280,1,2 (attached),No,Average,34000000
+Dhaka North City,Gulshan 2,4,1350,0,3 (attached),Yes,Excellent,11980000
+Dhaka North City,Gulshan 2,3,1100,2,3 (attached),Yes,Excellent,12300000
+Dhaka North City,Gulshan 2,4,1150,3,2 (attached),No,Excellent,20560000
+Dhaka North City,Gulshan 2,3,1500,2,2 (attached+NonAttached),Yes,Poor,34500000
+Dhaka North City,Gulshan 2,2,1540,4,3 (attached),Yes,Excellent,21300000
+Dhaka North City,Banani,2,1280,1,3 (attached),No,Excellent,24560000
+Dhaka North City,Banani,3,1350,2,3 (attached),No,Excellent,15670000
+Dhaka North City,Banani,3,1100,1,2 (attached),Yes,Excellent,28700000
+Dhaka North City,Banani,3,1280,0,2 (attached+NonAttached),No,Average,28640000
+Dhaka North City,Banani,4,1350,2,1(NonAttached),No,Excellent,19460000
+Dhaka North City,Banani,4,1100,1,3 (attached),Yes,Poor,22234000
+Dhaka North City,Banani,4,1150,2,3 (attached),Yes,Excellent,25870000
+Dhaka North City,Banani,3,1500,1,2 (attached),Yes,Average,34870000
+Dhaka North City,Banani,3,1280,0,2 (attached+NonAttached),No,Average,28900000
+Dhaka North City,Banani,3,1350,2,1(NonAttached),Yes,Excellent,25120000
+Dhaka North City,Banani,2,1280,3,3 (attached),Yes,Excellent,20000000
+Dhaka North City,Banani,2,1350,2,2 (NonAttached),No,Excellent,11760000
+Dhaka North City,Banani,3,1100,4,4 (attached),Yes,Poor,24000000
+Dhaka North City,Banani,2,1150,1,3 (attached),Yes,Poor,32300000
+Dhaka North City,Banani,2,1500,2,3 (attached),No,Excellent,31300000
+Dhaka North City,Banani,3,1540,1,2 (attached),No,Average,25100000
+Dhaka North City,Banani,3,1400,0,2 (attached+NonAttached),Yes,Average,26600000
+Dhaka North City,Banani,3,1680,2,1(NonAttached),No,Excellent,13600000
+Dhaka North City,Banani,4,1280,3,3 (attached),No,Excellent,28000000
+Dhaka North City,Banani,3,1300,2,2 (NonAttached),Yes,Excellent,29900000
+Dhaka North City,Banani,4,1800,4,4 (attached),Yes,Poor,11880000
+Dhaka North City,Banani,4,1280,1,3 (attached),Yes,Poor,16500000
+Dhaka North City,Banani,2,1350,1,3 (attached),No,Excellent,35000000
+Dhaka North City,Banani,2,1100,2,3 (attached),Yes,Average,23000000
+Dhaka North City,Banani,3,1150,1,2 (attached),Yes,Average,25100000
+Dhaka North City,Banani,3,1500,2,2 (attached+NonAttached),No,Excellent,21200000
+Dhaka North City,Banani,2,1540,1,1(NonAttached),No,Excellent,11060000
+Dhaka North City,Banani,2,1280,0,3 (attached),Yes,Excellent,20050000
+Dhaka North City,Banani,3,1350,2,2 (NonAttached),Yes,Poor,22500000
+Dhaka North City,Banani,3,1100,3,4 (attached),No,Poor,14400000
+Dhaka South City,Dhanmondhi,3,1150,2,3 (attached),Yes,Excellent,22370000
+Dhaka South City,Dhanmondhi,3,1280,4,3 (attached),Yes,Average,15090000
+Dhaka South City,Dhanmondhi,4,1350,1,3 (attached),No,Average,14110000
+Dhaka South City,Dhanmondhi,4,1100,2,3 (attached),No,Average,27650000
+Dhaka South City,Dhanmondhi,3,1280,1,2 (attached),Yes,Excellent,24560000
+Dhaka South City,Dhanmondhi,2,1350,0,2 (attached+NonAttached),Yes,Excellent,39100000
+Dhaka South City,Dhanmondhi 2,3,1100,2,1(NonAttached),No,Excellent,28470000
+Dhaka South City,Dhanmondhi 2,4,1150,3,3 (attached),Yes,Poor,11670000
+Dhaka South City,Dhanmondhi 2,3,1500,2,2 (NonAttached),Yes,Poor,26900000
+Dhaka South City,Dhanmondhi 2,2,1280,4,3 (attached),No,Excellent,25670000
+Dhaka South City,Dhanmondhi 2,3,1350,1,3 (attached),No,Average,17640000
+Dhaka South City,Dhanmondhi 2,4,1100,2,2 (attached),Yes,Average,12120000
+Dhaka South City,Dhanmondhi 2,3,1150,1,2 (attached+NonAttached),No,Average,37890000
+Dhaka South City,Dhanmondhi 2,2,1280,1,1(NonAttached),No,Excellent,30550000
+Dhaka South City,Dhanmondhi 2,3,1350,2,3 (attached),Yes,Excellent,26700000
+Dhaka South City,Dhanmondhi 2,4,1100,1,2 (NonAttached),No,Excellent,45123000
+Dhaka South City,Dhanmondhi 2,2,1150,0,4 (attached),No,Poor,15567000
+Dhaka South City,Dhanmondhi 2,3,1280,2,3 (attached),Yes,Average,25120000
+Dhaka South City,Dhanmondhi 2,4,1350,1,3 (attached),Yes,Average,12300000
+Dhaka South City,Dhanmondhi 2,3,1100,2,3 (attached),No,Average,36500000
+Dhaka South City,Dhanmondhi 3,2,1150,1,2 (attached),No,Excellent,35000000
+Dhaka South City,Dhanmondhi 3,3,1500,0,2 (attached+NonAttached),No,Excellent,24100000
+Dhaka South City,Dhanmondhi 3,4,1540,2,1(NonAttached),Yes,Excellent,45560000
+Dhaka South City,Dhanmondhi 3,2,1280,3,3 (attached),Yes,Poor,41000000
+Dhaka South City,Dhanmondhi 3,3,1350,2,2 (NonAttached),No,Poor,31060000
+Dhaka South City,Dhanmondhi 3,4,1100,4,4 (attached),No,Excellent,25600000
+Dhaka South City,Dhanmondhi 27,3,1150,1,3 (attached),Yes,Average,21110000
+Dhaka South City,Dhanmondhi 27,2,1280,2,3 (attached),No,Average,32200000
+Dhaka South City,Dhanmondhi 27,3,1350,1,3 (attached),No,Average,35110000
+Dhaka South City,Dhanmondhi 27,4,1100,0,2 (attached),Yes,Excellent,23330000
+Dhaka South City,Dhanmondhi 27,3,1150,2,2 (attached+NonAttached),Yes,Excellent,41900000
+Dhaka South City,Dhanmondhi 27,2,1500,3,1(NonAttached),No,Excellent,15786000
+Dhaka South City,Dhanmondhi 27,3,1280,2,3 (attached),No,Poor,28900000
+Dhaka South City,Dhanmondhi 27,4,1350,4,3 (attached),No,Poor,41230000
+Dhaka South City,Dhanmondhi 27,3,1100,1,2 (attached),Yes,Excellent,25670000
+Dhaka South City,Agargaon,2,1280,2,2 (attached+NonAttached),Yes,Average,37800000
+Dhaka South City,Agargaon,3,1350,1,1(NonAttached),No,Excellent,35111000
+Dhaka South City,Agargaon,2,1100,0,3 (attached),Yes,Excellent,25670000
+Dhaka South City,Agargaon,3,1150,2,2 (NonAttached),No,Excellent,45120000
+Dhaka South City,Agargaon,4,1280,1,4 (attached),No,Average,12780000
+Dhaka South City,Agargaon,3,1350,2,3 (attached),Yes,Average,25650000
+Dhaka South City,Agargaon,2,1280,1,3 (attached),Yes,Excellent,21980000
+Dhaka South City,Agargaon,3,1350,0,3 (attached),No,Excellent,21280000
+Dhaka South City,Agargaon,2,1280,2,2 (attached),No,Excellent,25560000
+Dhaka South City,Agargaon,3,1350,3,2 (attached+NonAttached),No,Poor,34500000
+Dhaka South City,Agargaon,4,1100,2,1(NonAttached),Yes,Poor,41900000
+Dhaka South City,Agargaon,2,1280,4,3 (attached),Yes,Excellent,30050000
+Dhaka South City,Agargaon,3,1350,1,2 (NonAttached),No,Average,35110000
+Dhaka South City,Agargaon,2,1100,2,4 (attached),Yes,Excellent,28900000
+Dhaka North City,Agargaon,2,1150,1,3 (attached),Yes,Average,45640000
+Dhaka North City,Bashundhara RA,2,1500,0,3 (attached),Yes,Average,15400000
+Dhaka North City,Bashundhara RA,3,1540,2,3 (attached),No,Excellent,25123000
+Dhaka North City,Bashundhara RA,2,1400,3,2 (attached),No,Excellent,14634000
+Dhaka North City,Bashundhara RA,3,1680,2,2 (attached+NonAttached),Yes,Excellent,29870000
+Dhaka North City,Bashundhara RA,2,1280,4,1(NonAttached),Yes,Poor,18790000
+Dhaka North City,Bashundhara RA,3,1300,1,3 (attached),No,Poor,20050000
+Dhaka North City,Bashundhara RA,4,1800,2,2 (NonAttached),Yes,Excellent,18050000
+Dhaka North City,Bashundhara RA,2,1280,1,4 (attached),No,Average,29800000
+Dhaka North City,Bashundhara RA,3,1350,0,3 (attached),No,Poor,19700000
+Dhaka North City,Bashundhara RA,2,1100,2,3 (attached),Yes,Average,15550000
+Dhaka North City,Bashundhara RA,3,1150,3,3 (attached),Yes,Average,21100000
+Dhaka North City,Bashundhara RA,4,1500,2,2 (attached),No,Excellent,15660000
+Dhaka North City,Bashundhara RA,3,1540,4,2 (attached+NonAttached),Yes,Excellent,25670000
+Dhaka North City,Bashundhara RA,2,1400,1,1(NonAttached),No,Excellent,19980000
+Dhaka North City,Bashundhara RA,3,1680,2,3 (attached),No,Poor,24300000
+Dhaka North City,North Budda,4,1280,1,2 (NonAttached),Yes,Poor,33500000
+Dhaka North City,North Budda,2,1300,0,4 (attached),Yes,Excellent,23300000
+Dhaka North City,North Budda,3,1800,2,3 (attached),No,Average,30056000
+Dhaka North City,North Budda,4,1280,3,3 (attached),Yes,Excellent,35980000
+Dhaka North City,North Budda,3,1350,2,3 (attached),Yes,Excellent,20340000
+Dhaka North City,North Budda,2,1100,4,2 (attached),Yes,Excellent,45099000
+Dhaka North City,West Budda,3,1150,1,2 (attached+NonAttached),No,Average,15160000
+Dhaka North City,West Budda,4,1500,2,1(NonAttached),No,Average,25076000
+Dhaka North City,West Budda,3,1540,1,3 (attached),Yes,Excellent,20066000
+Dhaka North City,West Budda,2,1400,0,2 (NonAttached),Yes,Excellent,17055000
+Dhaka North City,West Budda,3,1680,2,4 (attached),No,Excellent,20430000
+Dhaka North City,West Budda,4,1280,3,3 (attached),Yes,Poor,35000000
+Dhaka North City,West Budda,3,1300,2,3 (attached),Yes,Poor,20099000
+Dhaka North City,West Budda,2,1800,4,3 (attached),No,Excellent,11879000
+Dhaka North City,West Budda,3,1280,1,2 (attached),No,Average,24022000
+Dhaka North City,Mirpur,4,1280,2,2 (attached+NonAttached),Yes,Excellent,29710000
+Dhaka North City,Mirpur,3,1280,1,1(NonAttached),Yes,Average,25460000
+Dhaka North City,Mirpur,2,1350,0,3 (attached),No,Average,19120000
+Dhaka North City,Mirpur,3,1280,2,2 (NonAttached),Yes,Excellent,22770000
+Dhaka North City,Mirpur,4,1350,3,4 (attached),Yes,Excellent,25765000
+Dhaka North City,Mirpur,3,1280,2,3 (attached),No,Excellent,32470000
+Dhaka North City,Mirpur 2,2,1350,4,3 (attached),No,Poor,24480000
+Dhaka North City,Mirpur 2,3,1100,1,3 (attached),Yes,Poor,35000000
+Dhaka North City,Mirpur 2,4,1150,2,2 (attached),Yes,Excellent,20670000
+Dhaka North City,Mirpur 2,3,1280,1,2 (attached+NonAttached),No,Average,11007600
+Dhaka North City,Mirpur 2,2,1350,0,1(NonAttached),Yes,Excellent,14345000
+Dhaka North City,Mirpur 3,3,1100,2,3 (attached),Yes,Average,20765000
+Dhaka North City,Mirpur 3,4,1150,3,2 (NonAttached),No,Average,20834000
+Dhaka North City,Mirpur 3,3,1500,2,4 (attached),No,Excellent,25056000
+Dhaka North City,Mirpur 3,2,1540,4,3 (attached),Yes,Excellent,20098000
+Dhaka North City,Mirpur 3,3,1400,1,3 (attached),Yes,Excellent,11022000
+Dhaka North City,Mirpur 11,4,1680,2,3 (attached),No,Poor,14670000
+Dhaka North City,Mirpur 11,3,1280,1,3 (attached),Yes,Poor,20678000
+Dhaka North City,Mirpur 11,2,1300,0,2 (attached),No,Excellent,11042000
+Dhaka North City,Mirpur 11,3,1800,1,2 (attached+NonAttached),No,Excellent,14220000
+Dhaka North City,Mirpur 11,4,1280,2,1(NonAttached),Yes,Excellent,25410000
+Dhaka North City,Mirpur 12,3,1350,1,3 (attached),Yes,Excellent,35010000
+Dhaka North City,Mirpur 12,2,1100,0,2 (NonAttached),No,Excellent,25670000
+Dhaka North City,Mirpur 12,3,1150,1,4 (attached),Yes,Average,27543000
+Dhaka South City,Agargaon,4,1500,2,3 (attached),No,Average,11550000
+Dhaka South City,Agargaon,3,1540,1,3 (attached),No,Excellent,20055500
+Dhaka South City,Agargaon,2,1400,0,2 (attached),Yes,Excellent,25990000
+Dhaka South City,Agargaon,3,1680,1,2 (attached+NonAttached),Yes,Excellent,19776000
+Dhaka South City,Agargaon,4,1280,2,1(NonAttached),No,Poor,22660000
+Dhaka South City,Agargaon,2,1300,1,3 (attached),Yes,Poor,25889000
+Dhaka North City,Gulshan 1,3,1280,1,3 (attached),Yes,Excellent,32360000
+Dhaka North City,Gulshan 1,3,1350,2,3 (attached),Yes,Excellent,20666000
+Dhaka North City,Gulshan 1,2,1100,1,2 (attached),No,Excellent,25123000
+Dhaka North City,Gulshan 1,2,1150,0,2 (attached+NonAttached),Yes,Excellent,24560000
+Dhaka North City,Gulshan 1,3,1500,2,1(NonAttached),Yes,Average,11563000
+Dhaka North City,Gulshan 1,4,1540,3,3 (attached),No,Excellent,14570000
+Dhaka North City,Gulshan 1,3,1400,2,2 (NonAttached),No,Poor,25100000
+Dhaka North City,Gulshan 1,4,1680,4,4 (attached),Yes,Excellent,25600000
+Dhaka North City,Gulshan 1,3,1280,1,3 (attached),No,Average,29043000
+Dhaka North City,Gulshan 1,3,1300,2,3 (attached),No,Average,29770000
+Dhaka North City,Gulshan 1,4,1800,1,3 (attached),Yes,Excellent,11456000
+Dhaka North City,Gulshan 1,3,1280,2,2 (attached),Yes,Excellent,14900000
+Dhaka North City,Gulshan 1,2,1350,1,2 (attached+NonAttached),Yes,Excellent,30660000
+Dhaka North City,Gulshan 1,4,1100,0,3 (attached),No,Poor,11550000
+Dhaka North City,Gulshan 2,2,1150,2,3 (attached),Yes,Excellent,14110000
+Dhaka North City,Gulshan 2,3,1500,3,2 (attached),Yes,Excellent,32700000
+Dhaka North City,Gulshan 2,4,1540,2,2 (attached+NonAttached),No,Excellent,25600000
+Dhaka North City,Gulshan 2,4,1400,1,1(NonAttached),No,Excellent,29800000
+Dhaka North City,Gulshan 2,3,1280,2,3 (attached),Yes,Average,25610000
+Dhaka North City,Gulshan 2,3,1350,1,2 (NonAttached),No,Excellent,11660000
+Dhaka North City,Gulshan 2,2,1100,0,4 (attached),No,Poor,21100000
+Dhaka North City,Gulshan 2,2,1150,1,3 (attached),Yes,Excellent,11550000
+Dhaka North City,Gulshan 2,3,1500,2,3 (attached),Yes,Average,14550000
+Dhaka North City,Gulshan 2,3,1280,1,2 (attached),No,Average,25500000
+Dhaka North City,Gulshan 2,4,1350,0,3 (attached),Yes,Excellent,11880000
+Dhaka North City,Gulshan 2,3,1100,2,3 (attached),Yes,Excellent,19900000
+Dhaka North City,Gulshan 2,4,1150,3,2 (attached),No,Excellent,24578000
+Dhaka North City,Gulshan 2,3,1500,2,2 (attached+NonAttached),Yes,Poor,23461000
+Dhaka North City,Gulshan 2,2,1540,4,3 (attached),Yes,Excellent,15057000
+Dhaka North City,Banani,2,1280,1,3 (attached),No,Excellent,25670000
+Dhaka North City,Banani,3,1350,2,3 (attached),No,Excellent,11570000
+Dhaka North City,Banani,3,1100,1,2 (attached),Yes,Excellent,25450000
+Dhaka North City,Banani,3,1280,0,2 (attached+NonAttached),No,Average,24560000
+Dhaka North City,Banani,4,1350,2,1(NonAttached),No,Excellent,13210000
+Dhaka North City,Banani,4,1100,1,3 (attached),Yes,Poor,22000000
+Dhaka North City,Banani,4,1150,2,3 (attached),Yes,Excellent,30005000
+Dhaka North City,Banani,3,1500,1,2 (attached),Yes,Average,35080000
+Dhaka North City,Banani,3,1280,0,2 (attached+NonAttached),No,Average,28700000
+Dhaka North City,Banani,3,1350,2,1(NonAttached),Yes,Excellent,45430000
+Dhaka North City,Banani,2,1280,3,3 (attached),Yes,Excellent,15650000
+Dhaka North City,Banani,2,1350,2,2 (NonAttached),No,Excellent,29900000
+Dhaka North City,Banani,3,1100,4,4 (attached),Yes,Poor,21970000
+Dhaka North City,Banani,2,1150,1,3 (attached),Yes,Poor,35430000
+Dhaka North City,Banani,2,1500,2,3 (attached),No,Excellent,35450000
+Dhaka North City,Banani,3,1540,1,2 (attached),No,Average,25600000
+Dhaka North City,Banani,3,1400,0,2 (attached+NonAttached),Yes,Average,45600000
+Dhaka North City,Banani,3,1680,2,1(NonAttached),No,Excellent,15100000
+Dhaka North City,Banani,4,1280,3,3 (attached),No,Excellent,25600000
+Dhaka North City,Banani,3,1300,2,2 (NonAttached),Yes,Excellent,25100000
+Dhaka North City,Banani,4,1800,4,4 (attached),Yes,Poor,28700000
+Dhaka North City,Banani,4,1280,1,3 (attached),Yes,Poor,38700000
+Dhaka North City,Banani,2,1350,1,3 (attached),No,Excellent,35990000
+Dhaka North City,Banani,2,1100,2,3 (attached),Yes,Average,22360000
+Dhaka North City,Banani,3,1150,1,2 (attached),Yes,Average,45220000
+Dhaka North City,Banani,3,1500,2,2 (attached+NonAttached),No,Excellent,15110000
+Dhaka North City,Banani,2,1540,1,1(NonAttached),No,Excellent,25660000
+Dhaka North City,Banani,2,1280,0,3 (attached),Yes,Excellent,26540000
+Dhaka North City,Banani,3,1350,2,2 (NonAttached),Yes,Poor,26540000
+Dhaka North City,Banani,3,1100,3,4 (attached),No,Poor,56540000
+Dhaka South City,Dhanmondhi,3,1150,2,3 (attached),Yes,Excellent,35110000
+Dhaka South City,Dhanmondhi,3,1280,4,3 (attached),Yes,Average,26500000
+Dhaka South City,Dhanmondhi,4,1350,1,3 (attached),No,Average,45650000
+Dhaka South City,Dhanmondhi,4,1100,2,3 (attached),No,Average,15340000
+Dhaka South City,Dhanmondhi,3,1280,1,2 (attached),Yes,Excellent,25600000
+Dhaka South City,Dhanmondhi,2,1350,0,2 (attached+NonAttached),Yes,Excellent,28700000
+Dhaka South City,Dhanmondhi 2,3,1100,2,1(NonAttached),No,Excellent,21200000
+Dhaka South City,Dhanmondhi 2,4,1150,3,3 (attached),Yes,Poor,25640000
+Dhaka South City,Dhanmondhi 2,3,1500,2,2 (NonAttached),Yes,Poor,25430000
+Dhaka South City,Dhanmondhi 2,2,1280,4,3 (attached),No,Excellent,29870000
+Dhaka South City,Dhanmondhi 2,3,1350,1,3 (attached),No,Average,35640000
+Dhaka South City,Dhanmondhi 2,4,1100,2,2 (attached),Yes,Average,35000000
+Dhaka South City,Dhanmondhi 2,3,1150,1,2 (attached+NonAttached),No,Average,25430000
+Dhaka South City,Dhanmondhi 2,2,1280,1,1(NonAttached),No,Excellent,45055000
+Dhaka South City,Dhanmondhi 2,3,1350,2,3 (attached),Yes,Excellent,15000000
+Dhaka South City,Dhanmondhi 2,4,1100,1,2 (NonAttached),No,Excellent,25110000
+Dhaka South City,Dhanmondhi 2,2,1150,0,4 (attached),No,Poor,14000000
+Dhaka South City,Dhanmondhi 2,3,1280,2,3 (attached),Yes,Average,25430000
+Dhaka South City,Dhanmondhi 2,4,1350,1,3 (attached),Yes,Average,16500000
+Dhaka South City,Dhanmondhi 2,3,1100,2,3 (attached),No,Average,22300000
+Dhaka South City,Dhanmondhi 3,2,1150,1,2 (attached),No,Excellent,18670000
+Dhaka South City,Dhanmondhi 3,3,1500,0,2 (attached+NonAttached),No,Excellent,23330000
+Dhaka South City,Dhanmondhi 3,4,1540,2,1(NonAttached),Yes,Excellent,10640000
+Dhaka South City,Dhanmondhi 3,2,1280,3,3 (attached),Yes,Poor,19440000
+Dhaka South City,Dhanmondhi 3,3,1350,2,2 (NonAttached),No,Poor,20670000
+Dhaka South City,Dhanmondhi 3,4,1100,4,4 (attached),No,Excellent,15120000
+Dhaka South City,Dhanmondhi 27,3,1150,1,3 (attached),Yes,Average,20550000
+Dhaka South City,Dhanmondhi 27,2,1280,2,3 (attached),No,Average,15600000
+Dhaka South City,Dhanmondhi 27,3,1350,1,3 (attached),No,Average,25640000
+Dhaka South City,Dhanmondhi 27,4,1100,0,2 (attached),Yes,Excellent,13000000
+Dhaka South City,Dhanmondhi 27,3,1150,2,2 (attached+NonAttached),Yes,Excellent,20004000
+Dhaka South City,Dhanmondhi 27,2,1500,3,1(NonAttached),No,Excellent,30050000
+Dhaka South City,Dhanmondhi 27,3,1280,2,3 (attached),No,Poor,35070000
+Dhaka South City,Dhanmondhi 27,4,1350,4,3 (attached),No,Poor,20760000
+Dhaka South City,Dhanmondhi 27,3,1100,1,2 (attached),Yes,Excellent,45012000
+Dhaka South City,Agargaon,2,1280,2,2 (attached+NonAttached),Yes,Average,15210000
+Dhaka South City,Agargaon,3,1350,1,1(NonAttached),No,Excellent,2522000
+Dhaka South City,Agargaon,2,1100,0,3 (attached),Yes,Excellent,23200000
+Dhaka South City,Agargaon,3,1150,2,2 (NonAttached),No,Excellent,17300000
+Dhaka South City,Agargaon,4,1280,1,4 (attached),No,Average,20330000
+Dhaka South City,Agargaon,3,1350,2,3 (attached),Yes,Average,25330000
+Dhaka South City,Agargaon,2,1280,1,3 (attached),Yes,Excellent,24330000
+Dhaka South City,Agargaon,3,1350,0,3 (attached),No,Excellent,11540000
+Dhaka South City,Agargaon,2,1280,2,2 (attached),No,Excellent,15500000
+Dhaka South City,Agargaon,3,1350,3,2 (attached+NonAttached),No,Poor,27650000
+Dhaka South City,Agargaon,4,1100,2,1(NonAttached),Yes,Poor,25600000
+Dhaka South City,Agargaon,2,1280,4,3 (attached),Yes,Excellent,19765000
+Dhaka South City,Agargaon,3,1350,1,2 (NonAttached),No,Average,24500000
+Dhaka South City,Agargaon,2,1100,2,4 (attached),Yes,Excellent,25030000
+Dhaka North City,Agargaon,2,1150,1,3 (attached),Yes,Average,30670000
+Dhaka North City,Bashundhara RA,2,1500,0,3 (attached),Yes,Average,25600000
+Dhaka North City,Bashundhara RA,3,1540,2,3 (attached),No,Excellent,25650000
+Dhaka North City,Bashundhara RA,2,1400,3,2 (attached),No,Excellent,20120000
+Dhaka North City,Bashundhara RA,3,1680,2,2 (attached+NonAttached),Yes,Excellent,11330000
+Dhaka North City,Bashundhara RA,2,1280,4,1(NonAttached),Yes,Poor,13400000
+Dhaka North City,Bashundhara RA,3,1300,1,3 (attached),No,Poor,25550000
+Dhaka North City,Bashundhara RA,4,1800,2,2 (NonAttached),Yes,Excellent,24400000
+Dhaka North City,Bashundhara RA,2,1280,1,4 (attached),No,Average,25210000
+Dhaka North City,Bashundhara RA,3,1350,0,3 (attached),No,Poor,22330000
+Dhaka North City,Bashundhara RA,2,1100,2,3 (attached),Yes,Average,15350000
+Dhaka North City,Bashundhara RA,3,1150,3,3 (attached),Yes,Average,14570000
+Dhaka North City,Bashundhara RA,4,1500,2,2 (attached),No,Excellent,20543000
+Dhaka North City,Bashundhara RA,3,1540,4,2 (attached+NonAttached),Yes,Excellent,11540000
+Dhaka North City,Bashundhara RA,2,1400,1,1(NonAttached),No,Excellent,14780000
+Dhaka North City,Bashundhara RA,3,1680,2,3 (attached),No,Poor,28000000
+Dhaka North City,North Budda,4,1280,1,2 (NonAttached),Yes,Poor,28970000
+Dhaka North City,North Budda,2,1300,0,4 (attached),Yes,Excellent,27890000
+Dhaka North City,North Budda,3,1800,2,3 (attached),No,Average,25400000
+Dhaka North City,North Budda,4,1280,3,3 (attached),Yes,Excellent,11450000
+Dhaka North City,North Budda,3,1350,2,3 (attached),Yes,Excellent,20560000
+Dhaka North City,North Budda,2,1100,4,2 (attached),Yes,Excellent,25320000
+Dhaka North City,West Budda,3,1150,1,2 (attached+NonAttached),No,Average,19430000
+Dhaka North City,West Budda,4,1500,2,1(NonAttached),No,Average,22670000
+Dhaka North City,West Budda,3,1540,1,3 (attached),Yes,Excellent,22100000
+Dhaka North City,West Budda,2,1400,0,2 (NonAttached),Yes,Excellent,35750000
+Dhaka North City,West Budda,3,1680,2,4 (attached),No,Excellent,45000000
+Dhaka North City,West Budda,4,1280,3,3 (attached),Yes,Poor,25230000
+Dhaka North City,West Budda,3,1300,2,3 (attached),Yes,Poor,25400000
+Dhaka North City,West Budda,2,1800,4,3 (attached),No,Excellent,11880000
+Dhaka North City,West Budda,3,1280,1,2 (attached),No,Average,15400000
+Dhaka North City,Mirpur,4,1280,2,2 (attached+NonAttached),Yes,Excellent,24300000
+Dhaka North City,Mirpur,3,1280,1,1(NonAttached),Yes,Average,24500000
+Dhaka North City,Mirpur,2,1350,0,3 (attached),No,Average,25500000
+Dhaka North City,Mirpur,3,1280,2,2 (NonAttached),Yes,Excellent,23200000
+Dhaka North City,Mirpur,4,1350,3,4 (attached),Yes,Excellent,11230000
+Dhaka North City,Mirpur,3,1280,2,3 (attached),No,Excellent,14440000
+Dhaka North City,Mirpur 2,2,1350,4,3 (attached),No,Poor,12500000
+Dhaka North City,Mirpur 2,3,1100,1,3 (attached),Yes,Poor,11546000
+Dhaka North City,Mirpur 2,4,1150,2,2 (attached),Yes,Excellent,24560000
+Dhaka North City,Mirpur 2,3,1280,1,2 (attached+NonAttached),No,Average,26000000
+Dhaka North City,Mirpur 2,2,1350,0,1(NonAttached),Yes,Excellent,14300000
+Dhaka North City,Mirpur 3,3,1100,2,3 (attached),Yes,Average,12450000
+Dhaka North City,Mirpur 3,4,1150,3,2 (NonAttached),No,Average,30000000
+Dhaka North City,Mirpur 3,3,1500,2,4 (attached),No,Excellent,35000000
+Dhaka North City,Mirpur 3,2,1540,4,3 (attached),Yes,Excellent,20500000
+Dhaka North City,Mirpur 3,3,1400,1,3 (attached),Yes,Excellent,45540000
+Dhaka North City,Mirpur 11,4,1680,2,3 (attached),No,Poor,15456000
+Dhaka North City,Mirpur 11,3,1280,1,3 (attached),Yes,Poor,25110000
+Dhaka North City,Mirpur 11,2,1300,0,2 (attached),No,Excellent,24530000
+Dhaka North City,Mirpur 11,3,1800,1,2 (attached+NonAttached),No,Excellent,35670000
+Dhaka North City,Mirpur 11,4,1280,2,1(NonAttached),Yes,Excellent,35770000
+Dhaka North City,Mirpur 12,3,1350,1,3 (attached),Yes,Excellent,26778000
+Dhaka North City,Mirpur 12,2,1100,0,2 (NonAttached),No,Excellent,45342000
+Dhaka North City,Mirpur 12,3,1150,1,4 (attached),Yes,Average,15440000
+Dhaka South City,Agargaon,4,1500,2,3 (attached),No,Average,25000000
+Dhaka South City,Agargaon,3,1540,1,3 (attached),No,Excellent,24600000
+Dhaka South City,Agargaon,2,1400,0,2 (attached),Yes,Excellent,20564000
+Dhaka South City,Agargaon,3,1680,1,2 (attached+NonAttached),Yes,Excellent,39320000
+Dhaka South City,Agargaon,4,1280,2,1(NonAttached),No,Poor,35000000
+Dhaka South City,Agargaon,2,1300,1,3 (attached),Yes,Poor,25460000
+Dhaka North City,Gulshan 1,3,1280,1,3 (attached),Yes,Excellent,45430000
+Dhaka North City,Gulshan 1,3,1350,2,3 (attached),Yes,Excellent,15536700
+Dhaka North City,Gulshan 1,2,1100,1,2 (attached),No,Excellent,25432100
+Dhaka North City,Gulshan 1,2,1150,0,2 (attached+NonAttached),Yes,Excellent,24567000
+Dhaka North City,Gulshan 1,3,1500,2,1(NonAttached),Yes,Average,27654000
+Dhaka North City,Gulshan 1,4,1540,3,3 (attached),No,Excellent,31234000
+Dhaka North City,Gulshan 1,3,1400,2,2 (NonAttached),No,Poor,35987000
+Dhaka North City,Gulshan 1,4,1680,4,4 (attached),Yes,Excellent,24560000
+Dhaka North City,Gulshan 1,3,1280,1,3 (attached),No,Average,45060000
+Dhaka North City,Gulshan 1,3,1300,2,3 (attached),No,Average,15070000
+Dhaka North City,Gulshan 1,4,1800,1,3 (attached),Yes,Excellent,25330000
+Dhaka North City,Gulshan 1,3,1280,2,2 (attached),Yes,Excellent,26754000
+Dhaka North City,Gulshan 1,2,1350,1,2 (attached+NonAttached),Yes,Excellent,25500000
+Dhaka North City,Gulshan 1,4,1100,0,3 (attached),No,Poor,20654000
+Dhaka North City,Gulshan 2,2,1150,2,3 (attached),Yes,Excellent,22100000
+Dhaka North City,Gulshan 2,3,1500,3,2 (attached),Yes,Excellent,27553000
+Dhaka North City,Gulshan 2,4,1540,2,2 (attached+NonAttached),No,Excellent,35646000
+Dhaka North City,Gulshan 2,4,1400,1,1(NonAttached),No,Excellent,35876000
+Dhaka North City,Gulshan 2,3,1280,2,3 (attached),Yes,Average,22145000
+Dhaka North City,Gulshan 2,3,1350,1,2 (NonAttached),No,Excellent,45540000
+Dhaka North City,Gulshan 2,2,1100,0,4 (attached),No,Poor,15670000
+Dhaka North City,Gulshan 2,2,1150,1,3 (attached),Yes,Excellent,25678000
+Dhaka North City,Gulshan 2,3,1500,2,3 (attached),Yes,Average,14870000
+Dhaka North City,Gulshan 2,3,1280,1,2 (attached),No,Average,26470000
+Dhaka North City,Gulshan 2,4,1350,0,3 (attached),Yes,Excellent,16540000
+Dhaka North City,Gulshan 2,3,1100,2,3 (attached),Yes,Excellent,26540000
+Dhaka North City,Gulshan 2,4,1150,3,2 (attached),No,Excellent,18234000
+Dhaka North City,Gulshan 2,3,1500,2,2 (attached+NonAttached),Yes,Poor,22300000
+Dhaka North City,Gulshan 2,2,1540,4,3 (attached),Yes,Excellent,17600000
+Dhaka North City,Banani,2,1280,1,3 (attached),No,Excellent,19980000
+Dhaka North City,Banani,3,1350,2,3 (attached),No,Excellent,21700000
+Dhaka North City,Banani,3,1100,1,2 (attached),Yes,Excellent,15180000
+Dhaka North City,Banani,3,1280,0,2 (attached+NonAttached),No,Average,21900000
+Dhaka North City,Banani,4,1350,2,1(NonAttached),No,Excellent,11000000
+Dhaka North City,Banani,4,1100,1,3 (attached),Yes,Poor,20200000
+Dhaka North City,Banani,4,1150,2,3 (attached),Yes,Excellent,13030000
+Dhaka North City,Banani,3,1500,1,2 (attached),Yes,Average,2040000
+Dhaka North City,Banani,3,1280,0,2 (attached+NonAttached),No,Average,30540000
+Dhaka North City,Banani,3,1350,2,1(NonAttached),Yes,Excellent,35760000
+Dhaka North City,Banani,2,1280,3,3 (attached),Yes,Excellent,28700000
+Dhaka North City,Banani,2,1350,2,2 (NonAttached),No,Excellent,45700000
+Dhaka North City,Banani,3,1100,4,4 (attached),Yes,Poor,15670000
+Dhaka North City,Banani,2,1150,1,3 (attached),Yes,Poor,23200000
+Dhaka North City,Banani,2,1500,2,3 (attached),No,Excellent,24300000
+Dhaka North City,Banani,3,1540,1,2 (attached),No,Average,17600000
+Dhaka North City,Banani,3,1400,0,2 (attached+NonAttached),Yes,Average,20000000
+Dhaka North City,Banani,3,1680,2,1(NonAttached),No,Excellent,25000000
+Dhaka North City,Banani,4,1280,3,3 (attached),No,Excellent,27600000
+Dhaka North City,Banani,3,1300,2,2 (NonAttached),Yes,Excellent,11000000
+Dhaka North City,Banani,4,1800,4,4 (attached),Yes,Poor,14000000
+Dhaka North City,Banani,4,1280,1,3 (attached),Yes,Poor,21230000
+Dhaka North City,Banani,2,1350,1,3 (attached),No,Excellent,25990000
+Dhaka North City,Banani,2,1100,2,3 (attached),Yes,Average,17890000
+Dhaka North City,Banani,3,1150,1,2 (attached),Yes,Average,22550000
+Dhaka North City,Banani,3,1500,2,2 (attached+NonAttached),No,Excellent,25870000
+Dhaka North City,Banani,2,1540,1,1(NonAttached),No,Excellent,30654000
+Dhaka North City,Banani,2,1280,0,3 (attached),Yes,Excellent,20006500
+Dhaka North City,Banani,3,1350,2,2 (NonAttached),Yes,Poor,25645000
+Dhaka North City,Banani,3,1100,3,4 (attached),No,Poor,20054000
+Dhaka South City,Dhanmondhi,3,1150,2,3 (attached),Yes,Excellent,11650000
+Dhaka South City,Dhanmondhi,3,1280,4,3 (attached),Yes,Average,14676000
+Dhaka South City,Dhanmondhi,4,1350,1,3 (attached),No,Average,24400000
+Dhaka South City,Dhanmondhi,4,1100,2,3 (attached),No,Average,29870000
+Dhaka South City,Dhanmondhi,3,1280,1,2 (attached),Yes,Excellent,25550000
+Dhaka South City,Dhanmondhi,2,1350,0,2 (attached+NonAttached),Yes,Excellent,20560000
+Dhaka South City,Dhanmondhi 2,3,1100,2,1(NonAttached),No,Excellent,11870000
+Dhaka South City,Dhanmondhi 2,4,1150,3,3 (attached),Yes,Poor,14056000
+Dhaka South City,Dhanmondhi 2,3,1500,2,2 (NonAttached),Yes,Poor,25430000
+Dhaka South City,Dhanmondhi 2,2,1280,4,3 (attached),No,Excellent,11560000
+Dhaka South City,Dhanmondhi 2,3,1350,1,3 (attached),No,Average,14000000
+Dhaka South City,Dhanmondhi 2,4,1100,2,2 (attached),Yes,Average,24540000
+Dhaka South City,Dhanmondhi 2,3,1150,1,2 (attached+NonAttached),No,Average,28750000
+Dhaka South City,Dhanmondhi 2,2,1280,1,1(NonAttached),No,Excellent,29540000
+Dhaka South City,Dhanmondhi 2,3,1350,2,3 (attached),Yes,Excellent,23400000
+Dhaka South City,Dhanmondhi 2,4,1100,1,2 (NonAttached),No,Excellent,11654000
+Dhaka South City,Dhanmondhi 2,2,1150,0,4 (attached),No,Poor,26540000
+Dhaka South City,Dhanmondhi 2,3,1280,2,3 (attached),Yes,Average,25650000
+Dhaka South City,Dhanmondhi 2,4,1350,1,3 (attached),Yes,Average,19540000
+Dhaka South City,Dhanmondhi 2,3,1100,2,3 (attached),No,Average,22660000
+Dhaka South City,Dhanmondhi 3,2,1150,1,2 (attached),No,Excellent,25534000
+Dhaka South City,Dhanmondhi 3,3,1500,0,2 (attached+NonAttached),No,Excellent,33210000
+Dhaka South City,Dhanmondhi 3,4,1540,2,1(NonAttached),Yes,Excellent,26600000
+Dhaka South City,Dhanmondhi 3,2,1280,3,3 (attached),Yes,Poor,25900000
+Dhaka South City,Dhanmondhi 3,3,1350,2,2 (NonAttached),No,Poor,26540000
+Dhaka South City,Dhanmondhi 3,4,1100,4,4 (attached),No,Excellent,11220000
+Dhaka South City,Dhanmondhi 27,3,1150,1,3 (attached),Yes,Average,18700000
+Dhaka South City,Dhanmondhi 27,2,1280,2,3 (attached),No,Average,34500000
+Dhaka South City,Dhanmondhi 27,3,1350,1,3 (attached),No,Average,46000000
+Dhaka South City,Dhanmondhi 27,4,1100,0,2 (attached),Yes,Excellent,35000000
+Dhaka South City,Dhanmondhi 27,3,1150,2,2 (attached+NonAttached),Yes,Excellent,41300000
+Dhaka South City,Dhanmondhi 27,2,1500,3,1(NonAttached),No,Excellent,23000000
+Dhaka South City,Dhanmondhi 27,3,1280,2,3 (attached),No,Poor,34000000
+Dhaka South City,Dhanmondhi 27,4,1350,4,3 (attached),No,Poor,51300000
+Dhaka South City,Dhanmondhi 27,3,1100,1,2 (attached),Yes,Excellent,31050000
+Dhaka South City,Agargaon,2,1280,2,2 (attached+NonAttached),Yes,Average,15600000
+Dhaka South City,Agargaon,3,1350,1,1(NonAttached),No,Excellent,36000000
+Dhaka South City,Agargaon,2,1100,0,3 (attached),Yes,Excellent,31000000
+Dhaka South City,Agargaon,3,1150,2,2 (NonAttached),No,Excellent,25300000
+Dhaka South City,Agargaon,4,1280,1,4 (attached),No,Average,40000000
+Dhaka South City,Agargaon,3,1350,2,3 (attached),Yes,Average,31760000
+Dhaka South City,Agargaon,2,1280,1,3 (attached),Yes,Excellent,20050000
+Dhaka South City,Agargaon,3,1350,0,3 (attached),No,Excellent,33000000
+Dhaka South City,Agargaon,2,1280,2,2 (attached),No,Excellent,14650000
+Dhaka South City,Agargaon,3,1350,3,2 (attached+NonAttached),No,Poor,30550000
+Dhaka South City,Agargaon,4,1100,2,1(NonAttached),Yes,Poor,41000000
+Dhaka South City,Agargaon,2,1280,4,3 (attached),Yes,Excellent,15875000
+Dhaka South City,Agargaon,3,1350,1,2 (NonAttached),No,Average,36500000
+Dhaka South City,Agargaon,2,1100,2,4 (attached),Yes,Excellent,27600000
+Dhaka North City,Agargaon,2,1150,1,3 (attached),Yes,Average,25120000
+Dhaka North City,Bashundhara RA,2,1500,0,3 (attached),Yes,Average,23400000
+Dhaka North City,Bashundhara RA,3,1540,2,3 (attached),No,Excellent,31550000
+Dhaka North City,Bashundhara RA,2,1400,3,2 (attached),No,Excellent,40000000
+Dhaka North City,Bashundhara RA,3,1680,2,2 (attached+NonAttached),Yes,Excellent,35005000
+Dhaka North City,Bashundhara RA,2,1280,4,1(NonAttached),Yes,Poor,14060000
+Dhaka North City,Bashundhara RA,3,1300,1,3 (attached),No,Poor,32050000
+Dhaka North City,Bashundhara RA,4,1800,2,2 (NonAttached),Yes,Excellent,45670000
+Dhaka North City,Bashundhara RA,2,1280,1,4 (attached),No,Average,35390000
+Dhaka North City,Bashundhara RA,3,1350,0,3 (attached),No,Poor,28700000
+Dhaka North City,Bashundhara RA,2,1100,2,3 (attached),Yes,Average,25320000
+Dhaka North City,Bashundhara RA,3,1150,3,3 (attached),Yes,Average,35550000
+Dhaka North City,Bashundhara RA,4,1500,2,2 (attached),No,Excellent,55110000
+Dhaka North City,Bashundhara RA,3,1540,4,2 (attached+NonAttached),Yes,Excellent,40650000
+Dhaka North City,Bashundhara RA,2,1400,1,1(NonAttached),No,Excellent,35430000
+Dhaka North City,Bashundhara RA,3,1680,2,3 (attached),No,Poor,25880000
+Dhaka North City,North Budda,4,1280,1,2 (NonAttached),Yes,Poor,38700000
+Dhaka North City,North Budda,2,1300,0,4 (attached),Yes,Excellent,41023000
+Dhaka North City,North Budda,3,1800,2,3 (attached),No,Average,35789000
+Dhaka North City,North Budda,4,1280,3,3 (attached),Yes,Excellent,35770000
+Dhaka North City,North Budda,3,1350,2,3 (attached),Yes,Excellent,36650000
+Dhaka North City,North Budda,2,1100,4,2 (attached),Yes,Excellent,28700000
+Dhaka North City,West Budda,3,1150,1,2 (attached+NonAttached),No,Average,39800000
+Dhaka North City,West Budda,4,1500,2,1(NonAttached),No,Average,55000000
+Dhaka North City,West Budda,3,1540,1,3 (attached),Yes,Excellent,47600000
+Dhaka North City,West Budda,2,1400,0,2 (NonAttached),Yes,Excellent,31000000
+Dhaka North City,West Budda,3,1680,2,4 (attached),No,Excellent,32000000
+Dhaka North City,West Budda,4,1280,3,3 (attached),Yes,Poor,51200000
+Dhaka North City,West Budda,3,1300,2,3 (attached),Yes,Poor,45600000
+Dhaka North City,West Budda,2,1800,4,3 (attached),No,Excellent,24300000
+Dhaka North City,West Budda,3,1280,1,2 (attached),No,Average,39900000
+Dhaka North City,Mirpur,4,1280,2,2 (attached+NonAttached),Yes,Excellent,51800000
+Dhaka North City,Mirpur,3,1280,1,1(NonAttached),Yes,Average,33300000
+Dhaka North City,Mirpur,2,1350,0,3 (attached),No,Average,22600000
+Dhaka North City,Mirpur,3,1280,2,2 (NonAttached),Yes,Excellent,26900000
+Dhaka North City,Mirpur,4,1350,3,4 (attached),Yes,Excellent,55000000
+Dhaka North City,Mirpur,3,1280,2,3 (attached),No,Excellent,46600000
+Dhaka North City,Mirpur 2,2,1350,4,3 (attached),No,Poor,30000000
+Dhaka North City,Mirpur 2,3,1100,1,3 (attached),Yes,Poor,40000000
+Dhaka North City,Mirpur 2,4,1150,2,2 (attached),Yes,Excellent,45000000
+Dhaka North City,Mirpur 2,3,1280,1,2 (attached+NonAttached),No,Average,52400000
+Dhaka North City,Mirpur 2,2,1350,0,1(NonAttached),Yes,Excellent,39800000
+Dhaka North City,Mirpur 3,3,1100,2,3 (attached),Yes,Average,45900000
+Dhaka North City,Mirpur 3,4,1150,3,2 (NonAttached),No,Average,58700000
+Dhaka North City,Mirpur 3,3,1500,2,4 (attached),No,Excellent,45110000
+Dhaka North City,Mirpur 3,2,1540,4,3 (attached),Yes,Excellent,23400000
+Dhaka North City,Mirpur 3,3,1400,1,3 (attached),Yes,Excellent,43200000
+Dhaka North City,Mirpur 11,4,1680,2,3 (attached),No,Poor,54000000
+Dhaka North City,Mirpur 11,3,1280,1,3 (attached),Yes,Poor,47800000
+Dhaka North City,Mirpur 11,2,1300,0,2 (attached),No,Excellent,12200000
+Dhaka North City,Mirpur 11,3,1800,1,2 (attached+NonAttached),No,Excellent,37700000
+Dhaka North City,Mirpur 11,4,1280,2,1(NonAttached),Yes,Excellent,44600000
+Dhaka North City,Mirpur 12,3,1350,1,3 (attached),Yes,Excellent,59900000
+Dhaka North City,Mirpur 12,2,1100,0,2 (NonAttached),No,Excellent,22400000
+Dhaka North City,Mirpur 12,3,1150,1,4 (attached),Yes,Average,49000000
+Dhaka South City,Agargaon,4,1500,2,3 (attached),No,Average,56430000
+Dhaka South City,Agargaon,3,1540,1,3 (attached),No,Excellent,37000000
+Dhaka South City,Agargaon,2,1400,0,2 (attached),Yes,Excellent,29000000
+Dhaka South City,Agargaon,3,1680,1,2 (attached+NonAttached),Yes,Excellent,37800000
+Dhaka South City,Agargaon,4,1280,2,1(NonAttached),No,Poor,56700000
+Dhaka South City,Agargaon,2,1300,1,3 (attached),Yes,Poor,38700000
+Dhaka North City,Gulshan 1,3,1280,1,3 (attached),Yes,Excellent,45900000
+Dhaka North City,Gulshan 1,3,1350,2,3 (attached),Yes,Excellent,43200000
+Dhaka North City,Gulshan 1,2,1100,1,2 (attached),No,Excellent,39980000
+Dhaka North City,Gulshan 1,2,1150,0,2 (attached+NonAttached),Yes,Excellent,26540000
+Dhaka North City,Gulshan 1,3,1500,2,1(NonAttached),Yes,Average,45000000
+Dhaka North City,Gulshan 1,4,1540,3,3 (attached),No,Excellent,55900000
+Dhaka North City,Gulshan 1,3,1400,2,2 (NonAttached),No,Poor,59870000
+Dhaka North City,Gulshan 1,4,1680,4,4 (attached),Yes,Excellent,56430000
+Dhaka North City,Gulshan 1,3,1280,1,3 (attached),No,Average,45320000
+Dhaka North City,Gulshan 1,3,1300,2,3 (attached),No,Average,49800000
+Dhaka North City,Gulshan 1,4,1800,1,3 (attached),Yes,Excellent,59120000
+Dhaka North City,Gulshan 1,3,1280,2,2 (attached),Yes,Excellent,49078000
+Dhaka North City,Gulshan 1,2,1350,1,2 (attached+NonAttached),Yes,Excellent,21400000
+Dhaka North City,Gulshan 1,4,1100,0,3 (attached),No,Poor,54123000
+Dhaka North City,Gulshan 2,2,1150,2,3 (attached),Yes,Excellent,21234000
+Dhaka North City,Gulshan 2,3,1500,3,2 (attached),Yes,Excellent,39000000
+Dhaka North City,Gulshan 2,4,1540,2,2 (attached+NonAttached),No,Excellent,59000000
+Dhaka North City,Gulshan 2,4,1400,1,1(NonAttached),No,Excellent,52000000
+Dhaka North City,Gulshan 2,3,1280,2,3 (attached),Yes,Average,48000000
+Dhaka North City,Gulshan 2,3,1350,1,2 (NonAttached),No,Excellent,46000000
+Dhaka North City,Gulshan 2,2,1100,0,4 (attached),No,Poor,27860000
+Dhaka North City,Gulshan 2,2,1150,1,3 (attached),Yes,Excellent,29800000
+Dhaka North City,Gulshan 2,3,1500,2,3 (attached),Yes,Average,47800000
+Dhaka North City,Gulshan 2,3,1280,1,2 (attached),No,Average,36540000
+Dhaka North City,Gulshan 2,4,1350,0,3 (attached),Yes,Excellent,45670000
+Dhaka North City,Gulshan 2,3,1100,2,3 (attached),Yes,Excellent,33800000
+Dhaka North City,Gulshan 2,4,1150,3,2 (attached),No,Excellent,41200000
+Dhaka North City,Gulshan 2,3,1500,2,2 (attached+NonAttached),Yes,Poor,49810000
+Dhaka North City,Gulshan 2,2,1540,4,3 (attached),Yes,Excellent,22500000
+Dhaka North City,Banani,2,1280,1,3 (attached),No,Excellent,21990000
+Dhaka North City,Banani,3,1350,2,3 (attached),No,Excellent,44000000
+Dhaka North City,Banani,3,1100,1,2 (attached),Yes,Excellent,48000000
+Dhaka North City,Banani,3,1280,0,2 (attached+NonAttached),No,Average,45320000
+Dhaka North City,Banani,4,1350,2,1(NonAttached),No,Excellent,55990000
+Dhaka North City,Banani,4,1100,1,3 (attached),Yes,Poor,49900000
+Dhaka North City,Banani,4,1150,2,3 (attached),Yes,Excellent,55020000
+Dhaka North City,Banani,3,1500,1,2 (attached),Yes,Average,44880000
+Dhaka North City,Banani,3,1280,0,2 (attached+NonAttached),No,Average,451100000
+Dhaka North City,Banani,3,1350,2,1(NonAttached),Yes,Excellent,31000000
+Dhaka North City,Banani,2,1280,3,3 (attached),Yes,Excellent,25460000
+Dhaka North City,Banani,2,1350,2,2 (NonAttached),No,Excellent,35760000
+Dhaka North City,Banani,3,1100,4,4 (attached),Yes,Poor,49110000
+Dhaka North City,Banani,2,1150,1,3 (attached),Yes,Poor,22560000
+Dhaka North City,Banani,2,1500,2,3 (attached),No,Excellent,25990000
+Dhaka North City,Banani,3,1540,1,2 (attached),No,Average,43000000
+Dhaka North City,Banani,3,1400,0,2 (attached+NonAttached),Yes,Average,48700000
+Dhaka North City,Banani,3,1680,2,1(NonAttached),No,Excellent,42100000
+Dhaka North City,Banani,4,1280,3,3 (attached),No,Excellent,58790000
+Dhaka North City,Banani,3,1300,2,2 (NonAttached),Yes,Excellent,43200000
+Dhaka North City,Banani,4,1800,4,4 (attached),Yes,Poor,55500000
+Dhaka North City,Banani,4,1280,1,3 (attached),Yes,Poor,51200000
+Dhaka North City,Banani,2,1350,1,3 (attached),No,Excellent,24300000
+Dhaka North City,Banani,2,1100,2,3 (attached),Yes,Average,25650000
+Dhaka North City,Banani,3,1150,1,2 (attached),Yes,Average,46750000
+Dhaka North City,Banani,3,1500,2,2 (attached+NonAttached),No,Excellent,41124000
+Dhaka North City,Banani,2,1540,1,1(NonAttached),No,Excellent,34870000
+Dhaka North City,Banani,2,1280,0,3 (attached),Yes,Excellent,25560000
+Dhaka North City,Banani,3,1350,2,2 (NonAttached),Yes,Poor,41540000
+Dhaka North City,Banani,3,1100,3,4 (attached),No,Poor,45120000
+Dhaka South City,Dhanmondhi,3,1150,2,3 (attached),Yes,Excellent,25600000
+Dhaka South City,Dhanmondhi,3,1280,4,3 (attached),Yes,Average,11780000
+Dhaka South City,Dhanmondhi,4,1350,1,3 (attached),No,Average,54990000
+Dhaka South City,Dhanmondhi,4,1100,2,3 (attached),No,Average,50000000
+Dhaka South City,Dhanmondhi,3,1280,1,2 (attached),Yes,Excellent,49900000
+Dhaka South City,Dhanmondhi,2,1350,0,2 (attached+NonAttached),Yes,Excellent,36700000
+Dhaka South City,Dhanmondhi 2,3,1100,2,1(NonAttached),No,Excellent,46700000
+Dhaka South City,Dhanmondhi 2,4,1150,3,3 (attached),Yes,Poor,61000000
+Dhaka South City,Dhanmondhi 2,3,1500,2,2 (NonAttached),Yes,Poor,43650000
+Dhaka South City,Dhanmondhi 2,2,1280,4,3 (attached),No,Excellent,23200000
+Dhaka South City,Dhanmondhi 2,3,1350,1,3 (attached),No,Average,11000000
+Dhaka South City,Dhanmondhi 2,4,1100,2,2 (attached),Yes,Average,25000000
+Dhaka South City,Dhanmondhi 2,3,1150,1,2 (attached+NonAttached),No,Average,48900000
+Dhaka South City,Dhanmondhi 2,2,1280,1,1(NonAttached),No,Excellent,11500000
+Dhaka South City,Dhanmondhi 2,3,1350,2,3 (attached),Yes,Excellent,14000000
+Dhaka South City,Dhanmondhi 2,4,1100,1,2 (NonAttached),No,Excellent,65600000
+Dhaka South City,Dhanmondhi 2,2,1150,0,4 (attached),No,Poor,35000000
+Dhaka South City,Dhanmondhi 2,3,1280,2,3 (attached),Yes,Average,25000000
+Dhaka South City,Dhanmondhi 2,4,1350,1,3 (attached),Yes,Average,52000000
+Dhaka South City,Dhanmondhi 2,3,1100,2,3 (attached),No,Average,41660000
+Dhaka South City,Dhanmondhi 3,2,1150,1,2 (attached),No,Excellent,14054000
+Dhaka South City,Dhanmondhi 3,3,1500,0,2 (attached+NonAttached),No,Excellent,44700000
+Dhaka South City,Dhanmondhi 3,4,1540,2,1(NonAttached),Yes,Excellent,59890000
+Dhaka South City,Dhanmondhi 3,2,1280,3,3 (attached),Yes,Poor,25650000
+Dhaka South City,Dhanmondhi 3,3,1350,2,2 (NonAttached),No,Poor,34500000
+Dhaka South City,Dhanmondhi 3,4,1100,4,4 (attached),No,Excellent,51800000
+Dhaka South City,Dhanmondhi 27,3,1150,1,3 (attached),Yes,Average,34450000
+Dhaka South City,Dhanmondhi 27,2,1280,2,3 (attached),No,Average,24500000
+Dhaka South City,Dhanmondhi 27,3,1350,1,3 (attached),No,Average,32100000
+Dhaka South City,Dhanmondhi 27,4,1100,0,2 (attached),Yes,Excellent,45400000
+Dhaka South City,Dhanmondhi 27,3,1150,2,2 (attached+NonAttached),Yes,Excellent,35640000
+Dhaka South City,Dhanmondhi 27,2,1500,3,1(NonAttached),No,Excellent,11900000
+Dhaka South City,Dhanmondhi 27,3,1280,2,3 (attached),No,Poor,44000000
+Dhaka South City,Dhanmondhi 27,4,1350,4,3 (attached),No,Poor,56400000
+Dhaka South City,Dhanmondhi 27,3,1100,1,2 (attached),Yes,Excellent,44400000
+Dhaka South City,Agargaon,2,1280,2,2 (attached+NonAttached),Yes,Average,39600000
+Dhaka South City,Agargaon,3,1350,1,1(NonAttached),No,Excellent,35200000
+Dhaka South City,Agargaon,2,1100,0,3 (attached),Yes,Excellent,22500000
+Dhaka South City,Agargaon,3,1150,2,2 (NonAttached),No,Excellent,49500000
+Dhaka South City,Agargaon,4,1280,1,4 (attached),No,Average,65500000
+Dhaka South City,Agargaon,3,1350,2,3 (attached),Yes,Average,49500000
+Dhaka South City,Agargaon,2,1280,1,3 (attached),Yes,Excellent,37700000
+Dhaka South City,Agargaon,3,1350,0,3 (attached),No,Excellent,33400000
+Dhaka South City,Agargaon,2,1280,2,2 (attached),No,Excellent,41200000
+Dhaka South City,Agargaon,3,1350,3,2 (attached+NonAttached),No,Poor,32000000
+Dhaka South City,Agargaon,4,1100,2,1(NonAttached),Yes,Poor,56900000
+Dhaka South City,Agargaon,2,1280,4,3 (attached),Yes,Excellent,25900000
+Dhaka South City,Agargaon,3,1350,1,2 (NonAttached),No,Average,32900000
+Dhaka South City,Agargaon,2,1100,2,4 (attached),Yes,Excellent,14800000
+Dhaka North City,Agargaon,2,1150,1,3 (attached),Yes,Average,34800000
+Dhaka North City,Bashundhara RA,2,1500,0,3 (attached),Yes,Average,32570000
+Dhaka North City,Bashundhara RA,3,1540,2,3 (attached),No,Excellent,25110000
+Dhaka North City,Bashundhara RA,2,1400,3,2 (attached),No,Excellent,37800000
+Dhaka North City,Bashundhara RA,3,1680,2,2 (attached+NonAttached),Yes,Excellent,44980000
+Dhaka North City,Bashundhara RA,2,1280,4,1(NonAttached),Yes,Poor,24320000
+Dhaka North City,Bashundhara RA,3,1300,1,3 (attached),No,Poor,45770000
+Dhaka North City,Bashundhara RA,4,1800,2,2 (NonAttached),Yes,Excellent,56600000
+Dhaka North City,Bashundhara RA,2,1280,1,4 (attached),No,Average,12997000
+Dhaka North City,Bashundhara RA,3,1350,0,3 (attached),No,Poor,33570000
+Dhaka North City,Bashundhara RA,2,1100,2,3 (attached),Yes,Average,38940000
+Dhaka North City,Bashundhara RA,3,1150,3,3 (attached),Yes,Average,45680000
+Dhaka North City,Bashundhara RA,4,1500,2,2 (attached),No,Excellent,45000000
+Dhaka North City,Bashundhara RA,3,1540,4,2 (attached+NonAttached),Yes,Excellent,55390000
+Dhaka North City,Bashundhara RA,2,1400,1,1(NonAttached),No,Excellent,25760000
+Dhaka North City,Bashundhara RA,3,1680,2,3 (attached),No,Poor,49900000
+Dhaka North City,North Budda,4,1280,1,2 (NonAttached),Yes,Poor,38700000
+Dhaka North City,North Budda,2,1300,0,4 (attached),Yes,Excellent,35110000
+Dhaka North City,North Budda,3,1800,2,3 (attached),No,Average,49556000
+Dhaka North City,North Budda,4,1280,3,3 (attached),Yes,Excellent,45320000
+Dhaka North City,North Budda,3,1350,2,3 (attached),Yes,Excellent,47830000
+Dhaka North City,North Budda,2,1100,4,2 (attached),Yes,Excellent,25900000
+Dhaka North City,West Budda,3,1150,1,2 (attached+NonAttached),No,Average,43210000
+Dhaka North City,West Budda,4,1500,2,1(NonAttached),No,Average,56750000
+Dhaka North City,West Budda,3,1540,1,3 (attached),Yes,Excellent,35530000
+Dhaka North City,West Budda,2,1400,0,2 (NonAttached),Yes,Excellent,35111000
+Dhaka North City,West Budda,3,1680,2,4 (attached),No,Excellent,47600000
+Dhaka North City,West Budda,4,1280,3,3 (attached),Yes,Poor,58900000
+Dhaka North City,West Budda,3,1300,2,3 (attached),Yes,Poor,45675000
+Dhaka North City,West Budda,2,1800,4,3 (attached),No,Excellent,28900000
+Dhaka North City,West Budda,3,1280,1,2 (attached),No,Average,54300000
+Dhaka North City,Mirpur,4,1280,2,2 (attached+NonAttached),Yes,Excellent,51200000
+Dhaka North City,Mirpur,3,1280,1,1(NonAttached),Yes,Average,33200000
+Dhaka North City,Mirpur,2,1350,0,3 (attached),No,Average,35900000
+Dhaka North City,Mirpur,3,1280,2,2 (NonAttached),Yes,Excellent,46500000
+Dhaka North City,Mirpur,4,1350,3,4 (attached),Yes,Excellent,55760000
+Dhaka North City,Mirpur,3,1280,2,3 (attached),No,Excellent,48890000
+Dhaka North City,Mirpur 2,2,1350,4,3 (attached),No,Poor,36650000
+Dhaka North City,Mirpur 2,3,1100,1,3 (attached),Yes,Poor,48900000
+Dhaka North City,Mirpur 2,4,1150,2,2 (attached),Yes,Excellent,67900000
+Dhaka North City,Mirpur 2,3,1280,1,2 (attached+NonAttached),No,Average,42300000
+Dhaka North City,Mirpur 2,2,1350,0,1(NonAttached),Yes,Excellent,28700000
+Dhaka North City,Mirpur 3,3,1100,2,3 (attached),Yes,Average,45670000
+Dhaka North City,Mirpur 3,4,1150,3,2 (NonAttached),No,Average,57700000
+Dhaka North City,Mirpur 3,3,1500,2,4 (attached),No,Excellent,42130000
+Dhaka North City,Mirpur 3,2,1540,4,3 (attached),Yes,Excellent,30400000
+Dhaka North City,Mirpur 3,3,1400,1,3 (attached),Yes,Excellent,45990000
+Dhaka North City,Mirpur 11,4,1680,2,3 (attached),No,Poor,55220000
+Dhaka North City,Mirpur 11,3,1280,1,3 (attached),Yes,Poor,48800000
+Dhaka North City,Mirpur 11,2,1300,0,2 (attached),No,Excellent,14770000
+Dhaka North City,Mirpur 11,3,1800,1,2 (attached+NonAttached),No,Excellent,36540000
+Dhaka North City,Mirpur 11,4,1280,2,1(NonAttached),Yes,Excellent,56340000
+Dhaka North City,Mirpur 12,3,1350,1,3 (attached),Yes,Excellent,41370000
+Dhaka North City,Mirpur 12,2,1100,0,2 (NonAttached),No,Excellent,37300000
+Dhaka North City,Mirpur 12,3,1150,1,4 (attached),Yes,Average,49650000
+Dhaka South City,Agargaon,4,1500,2,3 (attached),No,Average,56654000
+Dhaka South City,Agargaon,3,1540,1,3 (attached),No,Excellent,44000000
+Dhaka South City,Agargaon,2,1400,0,2 (attached),Yes,Excellent,39000000
+Dhaka South City,Agargaon,3,1680,1,2 (attached+NonAttached),Yes,Excellent,45210000
+Dhaka South City,Agargaon,4,1280,2,1(NonAttached),No,Poor,62211900
+Dhaka South City,Agargaon,2,1300,1,3 (attached),Yes,Poor,43320000
+Dhaka North City,Gulshan 1,3,1280,1,3 (attached),Yes,Excellent,43390000
+Dhaka North City,Gulshan 1,3,1350,2,3 (attached),Yes,Excellent,46210000
+Dhaka North City,Gulshan 1,2,1100,1,2 (attached),No,Excellent,20778000
+Dhaka North City,Gulshan 1,2,1150,0,2 (attached+NonAttached),Yes,Excellent,30000000
+Dhaka North City,Gulshan 1,3,1500,2,1(NonAttached),Yes,Average,35000000
+Dhaka North City,Gulshan 1,4,1540,3,3 (attached),No,Excellent,56320000
+Dhaka North City,Gulshan 1,3,1400,2,2 (NonAttached),No,Poor,45000000
+Dhaka North City,Gulshan 1,4,1680,4,4 (attached),Yes,Excellent,45700000
+Dhaka North City,Gulshan 1,3,1280,1,3 (attached),No,Average,37600000
+Dhaka North City,Gulshan 1,3,1300,2,3 (attached),No,Average,39800000
+Dhaka North City,Gulshan 1,4,1800,1,3 (attached),Yes,Excellent,57000000
+Dhaka North City,Gulshan 1,3,1280,2,2 (attached),Yes,Excellent,41200000
+Dhaka North City,Gulshan 1,2,1350,1,2 (attached+NonAttached),Yes,Excellent,25990000
+Dhaka North City,Gulshan 1,4,1100,0,3 (attached),No,Poor,56320000
+Dhaka North City,Gulshan 2,2,1150,2,3 (attached),Yes,Excellent,22300000
+Dhaka North City,Gulshan 2,3,1500,3,2 (attached),Yes,Excellent,43200000
+Dhaka North City,Gulshan 2,4,1540,2,2 (attached+NonAttached),No,Excellent,53200000
+Dhaka North City,Gulshan 2,4,1400,1,1(NonAttached),No,Excellent,55770000
+Dhaka North City,Gulshan 2,3,1280,2,3 (attached),Yes,Average,39000000
+Dhaka North City,Gulshan 2,3,1350,1,2 (NonAttached),No,Excellent,42500000
+Dhaka North City,Gulshan 2,2,1100,0,4 (attached),No,Poor,25110000
+Dhaka North City,Gulshan 2,2,1150,1,3 (attached),Yes,Excellent,30670000
+Dhaka North City,Gulshan 2,3,1500,2,3 (attached),Yes,Average,25600000
+Dhaka North City,Gulshan 2,3,1280,1,2 (attached),No,Average,45700000
+Dhaka North City,Gulshan 2,4,1350,0,3 (attached),Yes,Excellent,66700000
+Dhaka North City,Gulshan 2,3,1100,2,3 (attached),Yes,Excellent,58700000
+Dhaka North City,Gulshan 2,4,1150,3,2 (attached),No,Excellent,54800000
+Dhaka North City,Gulshan 2,3,1500,2,2 (attached+NonAttached),Yes,Poor,45500000
+Dhaka North City,Gulshan 2,2,1540,4,3 (attached),Yes,Excellent,29000000
+Dhaka North City,Banani,2,1280,1,3 (attached),No,Excellent,36000000
+Dhaka North City,Banani,3,1350,2,3 (attached),No,Excellent,45000000
+Dhaka North City,Banani,3,1100,1,2 (attached),Yes,Excellent,46100000
+Dhaka North City,Banani,3,1280,0,2 (attached+NonAttached),No,Average,39900000
+Dhaka North City,Banani,4,1350,2,1(NonAttached),No,Excellent,56800000
+Dhaka North City,Banani,4,1100,1,3 (attached),Yes,Poor,54000000
+Dhaka North City,Banani,4,1150,2,3 (attached),Yes,Excellent,49260000
+Dhaka North City,Banani,3,1500,1,2 (attached),Yes,Average,43200000
+Dhaka North City,Banani,3,1280,0,2 (attached+NonAttached),No,Average,39800000
+Dhaka North City,Banani,3,1350,2,1(NonAttached),Yes,Excellent,33210000
+Dhaka North City,Banani,2,1280,3,3 (attached),Yes,Excellent,14780000
+Dhaka North City,Banani,2,1350,2,2 (NonAttached),No,Excellent,29900000
+Dhaka North City,Banani,3,1100,4,4 (attached),Yes,Poor,32100000
+Dhaka North City,Banani,2,1150,1,3 (attached),Yes,Poor,36520000
+Dhaka North City,Banani,2,1500,2,3 (attached),No,Excellent,29100000
+Dhaka North City,Banani,3,1540,1,2 (attached),No,Average,30500000
+Dhaka North City,Banani,3,1400,0,2 (attached+NonAttached),Yes,Average,54360000
+Dhaka North City,Banani,3,1680,2,1(NonAttached),No,Excellent,45320000
+Dhaka North City,Banani,4,1280,3,3 (attached),No,Excellent,57000000
+Dhaka North City,Banani,3,1300,2,2 (NonAttached),Yes,Excellent,33900000
+Dhaka North City,Banani,4,1800,4,4 (attached),Yes,Poor,59800000
+Dhaka North City,Banani,4,1280,1,3 (attached),Yes,Poor,66700000
+Dhaka North City,Banani,2,1350,1,3 (attached),No,Excellent,34500000
+Dhaka North City,Banani,2,1100,2,3 (attached),Yes,Average,28900000
+Dhaka North City,Banani,3,1150,1,2 (attached),Yes,Average,38000000
+Dhaka North City,Banani,3,1500,2,2 (attached+NonAttached),No,Excellent,45870000
+Dhaka North City,Banani,2,1540,1,1(NonAttached),No,Excellent,35670000
+Dhaka North City,Banani,2,1280,0,3 (attached),Yes,Excellent,27800000
+Dhaka North City,Banani,3,1350,2,2 (NonAttached),Yes,Poor,37500000
+Dhaka North City,Banani,3,1100,3,4 (attached),No,Poor,43980000
+Dhaka South City,Dhanmondhi,3,1150,2,3 (attached),Yes,Excellent,36530000
+Dhaka South City,Dhanmondhi,3,1280,4,3 (attached),Yes,Average,41270000
+Dhaka South City,Dhanmondhi,4,1350,1,3 (attached),No,Average,46740000
+Dhaka South City,Dhanmondhi,4,1100,2,3 (attached),No,Average,55785000
+Dhaka South City,Dhanmondhi,3,1280,1,2 (attached),Yes,Excellent,54320000
+Dhaka South City,Dhanmondhi,2,1350,0,2 (attached+NonAttached),Yes,Excellent,28700000
+Dhaka South City,Dhanmondhi 2,3,1100,2,1(NonAttached),No,Excellent,45600000
+Dhaka South City,Dhanmondhi 2,4,1150,3,3 (attached),Yes,Poor,66530000
+Dhaka South City,Dhanmondhi 2,3,1500,2,2 (NonAttached),Yes,Poor,35430000
+Dhaka South City,Dhanmondhi 2,2,1280,4,3 (attached),No,Excellent,35870000
+Dhaka South City,Dhanmondhi 2,3,1350,1,3 (attached),No,Average,37530000
+Dhaka South City,Dhanmondhi 2,4,1100,2,2 (attached),Yes,Average,45342000
+Dhaka South City,Dhanmondhi 2,3,1150,1,2 (attached+NonAttached),No,Average,49000000
+Dhaka South City,Dhanmondhi 2,2,1280,1,1(NonAttached),No,Excellent,23590000
+Dhaka South City,Dhanmondhi 2,3,1350,2,3 (attached),Yes,Excellent,43200000
+Dhaka South City,Dhanmondhi 2,4,1100,1,2 (NonAttached),No,Excellent,56900000
+Dhaka South City,Dhanmondhi 2,2,1150,0,4 (attached),No,Poor,39900000
+Dhaka South City,Dhanmondhi 2,3,1280,2,3 (attached),Yes,Average,35230000
+Dhaka South City,Dhanmondhi 2,4,1350,1,3 (attached),Yes,Average,49900000
+Dhaka South City,Dhanmondhi 2,3,1100,2,3 (attached),No,Average,56984000
+Dhaka South City,Dhanmondhi 3,2,1150,1,2 (attached),No,Excellent,15770000
+Dhaka South City,Dhanmondhi 3,3,1500,0,2 (attached+NonAttached),No,Excellent,25789000
+Dhaka South City,Dhanmondhi 3,4,1540,2,1(NonAttached),Yes,Excellent,68800000
+Dhaka South City,Dhanmondhi 3,2,1280,3,3 (attached),Yes,Poor,38750000
+Dhaka South City,Dhanmondhi 3,3,1350,2,2 (NonAttached),No,Poor,36500000
+Dhaka South City,Dhanmondhi 3,4,1100,4,4 (attached),No,Excellent,41800000
+Dhaka South City,Dhanmondhi 27,3,1150,1,3 (attached),Yes,Average,37600000
+Dhaka South City,Dhanmondhi 27,2,1280,2,3 (attached),No,Average,36500000
+Dhaka South City,Dhanmondhi 27,3,1350,1,3 (attached),No,Average,35000000
+Dhaka South City,Dhanmondhi 27,4,1100,0,2 (attached),Yes,Excellent,56700000
+Dhaka South City,Dhanmondhi 27,3,1150,2,2 (attached+NonAttached),Yes,Excellent,45760000
+Dhaka South City,Dhanmondhi 27,2,1500,3,1(NonAttached),No,Excellent,15540000
+Dhaka South City,Dhanmondhi 27,3,1280,2,3 (attached),No,Poor,25800000
+Dhaka South City,Dhanmondhi 27,4,1350,4,3 (attached),No,Poor,14650000
+Dhaka South City,Dhanmondhi 27,3,1100,1,2 (attached),Yes,Excellent,69900000
+Dhaka South City,Agargaon,2,1280,2,2 (attached+NonAttached),Yes,Average,36539000
+Dhaka South City,Agargaon,3,1350,1,1(NonAttached),No,Excellent,46500000
+Dhaka South City,Agargaon,2,1100,0,3 (attached),Yes,Excellent,38000000
+Dhaka South City,Agargaon,3,1150,2,2 (NonAttached),No,Excellent,43300000
+Dhaka South City,Agargaon,4,1280,1,4 (attached),No,Average,62100000
+Dhaka South City,Agargaon,3,1350,2,3 (attached),Yes,Average,49800000
+Dhaka South City,Agargaon,2,1280,1,3 (attached),Yes,Excellent,39900000
+Dhaka South City,Agargaon,3,1350,0,3 (attached),No,Excellent,48800000
+Dhaka South City,Agargaon,2,1280,2,2 (attached),No,Excellent,38800000
+Dhaka South City,Agargaon,3,1350,3,2 (attached+NonAttached),No,Poor,58800000
+Dhaka South City,Agargaon,4,1100,2,1(NonAttached),Yes,Poor,69800000
+Dhaka South City,Agargaon,2,1280,4,3 (attached),Yes,Excellent,39000000
+Dhaka South City,Agargaon,3,1350,1,2 (NonAttached),No,Average,49800000
+Dhaka South City,Agargaon,2,1100,2,4 (attached),Yes,Excellent,35600000
+Dhaka North City,Agargaon,2,1150,1,3 (attached),Yes,Average,35000000
+Dhaka North City,Bashundhara RA,2,1500,0,3 (attached),Yes,Average,20650000
+Dhaka North City,Bashundhara RA,3,1540,2,3 (attached),No,Excellent,45079000
+Dhaka North City,Bashundhara RA,2,1400,3,2 (attached),No,Excellent,35340000
+Dhaka North City,Bashundhara RA,3,1680,2,2 (attached+NonAttached),Yes,Excellent,31290000
+Dhaka North City,Bashundhara RA,2,1280,4,1(NonAttached),Yes,Poor,33000000
+Dhaka North City,Bashundhara RA,3,1300,1,3 (attached),No,Poor,47600000
+Dhaka North City,Bashundhara RA,4,1800,2,2 (NonAttached),Yes,Excellent,40600000
+Dhaka North City,Bashundhara RA,2,1280,1,4 (attached),No,Average,25990000
+Dhaka North City,Bashundhara RA,3,1350,0,3 (attached),No,Poor,45600000
+Dhaka North City,Bashundhara RA,2,1100,2,3 (attached),Yes,Average,33000000
+Dhaka North City,Bashundhara RA,3,1150,3,3 (attached),Yes,Average,44600000
+Dhaka North City,Bashundhara RA,4,1500,2,2 (attached),No,Excellent,53200000
+Dhaka North City,Bashundhara RA,3,1540,4,2 (attached+NonAttached),Yes,Excellent,56400000
+Dhaka North City,Bashundhara RA,2,1400,1,1(NonAttached),No,Excellent,37500000
+Dhaka North City,Bashundhara RA,3,1680,2,3 (attached),No,Poor,42500000
+Dhaka North City,North Budda,4,1280,1,2 (NonAttached),Yes,Poor,65000000
+Dhaka North City,North Budda,2,1300,0,4 (attached),Yes,Excellent,39900000
+Dhaka North City,North Budda,3,1800,2,3 (attached),No,Average,47800000
+Dhaka North City,North Budda,4,1280,3,3 (attached),Yes,Excellent,55880000
+Dhaka North City,North Budda,3,1350,2,3 (attached),Yes,Excellent,45300000
+Dhaka North City,North Budda,2,1100,4,2 (attached),Yes,Excellent,21800000
+Dhaka North City,West Budda,3,1150,1,2 (attached+NonAttached),No,Average,42000000
+Dhaka North City,West Budda,4,1500,2,1(NonAttached),No,Average,56800000
+Dhaka North City,West Budda,3,1540,1,3 (attached),Yes,Excellent,48900000
+Dhaka North City,West Budda,2,1400,0,2 (NonAttached),Yes,Excellent,25980000
+Dhaka North City,West Budda,3,1680,2,4 (attached),No,Excellent,38790000
+Dhaka North City,West Budda,4,1280,3,3 (attached),Yes,Poor,67800000
+Dhaka North City,West Budda,3,1300,2,3 (attached),Yes,Poor,29900000
+Dhaka North City,West Budda,2,1800,4,3 (attached),No,Excellent,49100000
+Dhaka North City,West Budda,3,1280,1,2 (attached),No,Average,45400000
+Dhaka North City,Mirpur,4,1280,2,2 (attached+NonAttached),Yes,Excellent,56300000
+Dhaka North City,Mirpur,3,1280,1,1(NonAttached),Yes,Average,43800000
+Dhaka North City,Mirpur,2,1350,0,3 (attached),No,Average,38700000
+Dhaka North City,Mirpur,3,1280,2,2 (NonAttached),Yes,Excellent,45600000
+Dhaka North City,Mirpur,4,1350,3,4 (attached),Yes,Excellent,56300000
+Dhaka North City,Mirpur,3,1280,2,3 (attached),No,Excellent,30000000
+Dhaka North City,Mirpur 2,2,1350,4,3 (attached),No,Poor,36700000
+Dhaka North City,Mirpur 2,3,1100,1,3 (attached),Yes,Poor,45000000
+Dhaka North City,Mirpur 2,4,1150,2,2 (attached),Yes,Excellent,56700000
+Dhaka North City,Mirpur 2,3,1280,1,2 (attached+NonAttached),No,Average,47946000
+Dhaka North City,Mirpur 2,2,1350,0,1(NonAttached),Yes,Excellent,34000000
+Dhaka North City,Mirpur 3,3,1100,2,3 (attached),Yes,Average,49900000
+Dhaka North City,Mirpur 3,4,1150,3,2 (NonAttached),No,Average,59900000
+Dhaka North City,Mirpur 3,3,1500,2,4 (attached),No,Excellent,48900000
+Dhaka North City,Mirpur 3,2,1540,4,3 (attached),Yes,Excellent,37000000
+Dhaka North City,Mirpur 3,3,1400,1,3 (attached),Yes,Excellent,45600000
+Dhaka North City,Mirpur 11,4,1680,2,3 (attached),No,Poor,53000000
+Dhaka North City,Mirpur 11,3,1280,1,3 (attached),Yes,Poor,41200000
+Dhaka North City,Mirpur 11,2,1300,0,2 (attached),No,Excellent,37600000
+Dhaka North City,Mirpur 11,3,1800,1,2 (attached+NonAttached),No,Excellent,35440000
+Dhaka North City,Mirpur 11,4,1280,2,1(NonAttached),Yes,Excellent,56600000
+Dhaka North City,Mirpur 12,3,1350,1,3 (attached),Yes,Excellent,45800000
+Dhaka North City,Mirpur 12,2,1100,0,2 (NonAttached),No,Excellent,24990000
+Dhaka North City,Mirpur 12,3,1150,1,4 (attached),Yes,Average,47800000
+Dhaka South City,Agargaon,4,1500,2,3 (attached),No,Average,65300000
+Dhaka South City,Agargaon,3,1540,1,3 (attached),No,Excellent,39900000
+Dhaka South City,Agargaon,2,1400,0,2 (attached),Yes,Excellent,22800000
+Dhaka South City,Agargaon,3,1680,1,2 (attached+NonAttached),Yes,Excellent,45540000
+Dhaka South City,Agargaon,4,1280,2,1(NonAttached),No,Poor,58900000
+Dhaka South City,Agargaon,2,1300,1,3 (attached),Yes,Poor,25770000
